@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-10-26T08:18:48.099Z",
+  "updatedAt": "2026-10-26T16:22:56.373Z",
   "historyDays": 7,
   "count": 542,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"AI 낙오주가 피난처로\"…애플, 나스닥100과 거꾸로 가는 '안티 AI주' 됐다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610266364i",
+      "publishedAt": "2026-10-26T15:05:35.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "20년 전 기준에 머문 근로감독관 교육자료…\"대법판례 역행\"",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 검찰 지휘가 사라져 독자적 수사권을 갖게 된 근로감독관의 교육자료가 20년 전 판단 기준에 머물러 최근 대법원...",
+      "link": "https://www.yna.co.kr/view/AKR20261026156700530",
+      "publishedAt": "2026-10-26T15:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "머스크의 네오클라우드 죽이기?…\"기업AI 최종 승자는 MS\" [박신영의 개장전 요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610266357i",
+      "publishedAt": "2026-10-26T14:36:52.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "앤트로픽, 나스닥 상장 신청",
+      "summary": "최첨단 인공지능(AI) 기업 앤트로픽이 미국 증시에 상장하기 위한 기업공개(IPO) 증권신고서를 공개했다. 26일(현지시간) 앤트로픽이 미국 증권거래위원회(SEC)에 제출한 서류에..",
+      "link": "https://www.mk.co.kr/news/stock/12186407",
+      "publishedAt": "2026-10-26T14:18:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'AI 최대어' 앤스로픽, 나스닥 상장 위한 IPO 신청",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610266351i",
+      "publishedAt": "2026-10-26T14:17:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"현금만 500조원\"…사상최고가 버크셔, 다음 투자처는 메타?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610266323i",
+      "publishedAt": "2026-10-26T13:54:50.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"JYP 절반 사겠다\" 日투자사 깜짝 발표…주가 14% 뛰었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102663267",
+      "publishedAt": "2026-10-26T13:30:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "JYP, 때아닌 인수설…\"제안받은 적 없다\" 일축",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610266306H",
+      "publishedAt": "2026-10-26T13:27:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "100억 벌고 90억 잃어도 세금은 100억 기준...증권사 교육세 13배 폭증",
+      "summary": "상반기 거래 늘고 세율도 인상 10개 종투사 올 8663억 부담 ETF 거래비용 증가 우려도국내 증시 활황으로 주식과 상장지수펀드(ETF) 거래가 급증하면서 증권사들의 교육세 부담..",
+      "link": "https://www.mk.co.kr/news/stock/12186366",
+      "publishedAt": "2026-10-26T13:13:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "폭락장에 피눈물 흘리는데…'9천피' 대반전 시나리오 떴다 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102658706",
+      "publishedAt": "2026-10-26T13:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"합병 전 테슬라 매수\"…애플 먹구름 \"아이폰 18 부진\" [월가 업&다운]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610266297i",
+      "publishedAt": "2026-10-26T12:51:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "일본계 '지분 매수설' 영향…JYP엔터, 애프터마켓서 14% 급등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610266289i",
+      "publishedAt": "2026-10-26T12:32:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“있는 돈 없는 돈, 이미 다 끌어넣었나”…코스피 거래대금도 하락세",
+      "summary": "이달 거래대금 20조원대 기록 지난 6월 50조원대서 크게 줄어 향후 변수 빅테크 실적과 연준 회견최근 코스피가 5500선에서 등락을 거듭하는 가운데, 코스피 거래량과 거래대금이..",
+      "link": "https://www.mk.co.kr/news/stock/12186320",
+      "publishedAt": "2026-10-26T12:30:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“투자금까지 모았지만 함부로 못 들어가”…K반도체 대어들 IPO 속도조절",
+      "summary": "퓨리오사·딥엑스 프리IPO 수천억 모으며 성공했지만 “실적·성과 입증이 우선” 증시입성 시기 저울질 나서국내 인공지능(AI) 반도체 기업에 대한 또 다른 주요 관심사는 상장 시기다..",
+      "link": "https://www.mk.co.kr/news/business/12186261",
+      "publishedAt": "2026-10-26T11:11:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "李 \"CPTPP 가입 피할수 없는 문제\"",
+      "summary": "이재명 대통령이 26일 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입 문제와 관련해 \"답답하겠지만 피할 수 없는 일\"이라며 \"국가 전체를 위해서는 안 할 수 없다\"고 밝혔다..",
+      "link": "https://www.mk.co.kr/news/economy/12186257",
+      "publishedAt": "2026-10-26T11:09:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "9월에라도 피신할걸…주식형 펀드 빼서 여기 넣었으면 돈 벌었다",
+      "summary": "국내외 채권형 펀드에 4조 밀물 최근 변동장 한달 수익률 플러스 -16% 성적표 주식형펀드와 대조올 상반기 국내외 증시 강세에 외면받던 채권형 펀드로 투자자금이 다시 돌아오고 있다..",
+      "link": "https://www.mk.co.kr/news/stock/12186232",
+      "publishedAt": "2026-10-26T10:42:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "李 \"농업만으론 못살아…대국적 판단해야\"",
+      "summary": "이재명 대통령이 26일 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입 반대 입장을 밝혀온 농어민단체 관계자들을 만나 \"대한민국 국가 전체를 위해선 (가입을) 해야 한다\"며 ..",
+      "link": "https://www.mk.co.kr/news/economy/12186229",
+      "publishedAt": "2026-10-26T10:40:42.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "그린플러스, 100억유증…아리바이오홀딩스 등에 3자 배정",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 그린플러스[186230]는 채무상환자금 등 약 100억원을 조달하고자 제3자배정 유상증자를 결정했다고 26일 공...",
+      "link": "https://www.yna.co.kr/view/AKR20261026166500008",
+      "publishedAt": "2026-10-26T10:35:57.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "우상호 \"AI 데이터센터 유치 고발전 유감…투자 환경 악화 우려\"(종합)",
+      "summary": "(춘천=연합뉴스) 이재현 기자 = 우상호 강원도지사는 26일 강릉 인공지능(AI) 데이터센터 유치와 관련한 잇단 고발에 대해 &quot;기업 유치를 정쟁...",
+      "link": "https://www.yna.co.kr/view/AKR20261026150851062",
+      "publishedAt": "2026-10-26T09:57:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "유니트리, JP모건의 투자의견·목표주가 상향에 7%대 급등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610266136i",
+      "publishedAt": "2026-10-26T09:44:30.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "해킹 발표 24일 만에…KB국민은행 정보유출 119→2천210명(종합)",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 외부 해킹으로 인한 정보 유출 인원이 2천91명 추가 확인됐다고 26일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261026157951002",
+      "publishedAt": "2026-10-26T09:38:26.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "하림산업, 부동산개발·식품사업 분할…하림식품 신설",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 하림지주[003380]의 100% 자회사인 하림산업이 부동산개발과 식품사업 부문을 분리해 운영하기로 했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261026160700030",
+      "publishedAt": "2026-10-26T09:38:12.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "금감원 불법대부계약 무효확인서, 피해자 무죄판결 첫 활용",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 금융감독원이 연 이자율 60%를 초과하는 불법 대부계약에 원금·이자가 무효라는 내용을 담아 발급하는 &apos;무효확인...",
+      "link": "https://www.yna.co.kr/view/AKR20261026157200002",
+      "publishedAt": "2026-10-26T09:20:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[속보] KB국민은행 “해킹 정보유출 2091명 추가 확인”",
+      "summary": "KB국민은행이 외부 해킹으로 인한 정보 유출 인원이 2091명 추가 확인됐다고 26일 밝혔다. 이달 2일 확인된 119명에 더해 총 2210명으로 유출 인원이 늘어난 것이다. 추가..",
+      "link": "https://www.mk.co.kr/news/economy/12186157",
+      "publishedAt": "2026-10-26T09:14:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "국민성장펀드 첫 성적표…3개월 수익률 0.5%",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102659361",
+      "publishedAt": "2026-10-26T09:07:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI가 통신 수요 1000배 늘린다\"는 머스크의 말, 통신장비주엔 어디가 진짜 기회인가?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610264526i",
+      "publishedAt": "2026-10-26T09:05:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "풍전약품, 30억원 규모 유상증자 실시",
+      "summary": "코스닥 상장사 풍전약품이 30억원 규모의 제3자배정증자를 실시한다고 2026년 10월 26일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 120만 주, 증자 전 발행 ..",
+      "link": "https://www.mk.co.kr/news/stock/12186146",
+      "publishedAt": "2026-10-26T08:53:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] “받을 사람 100만명 중 1명인데”…보험사 특약 경쟁 제동",
+      "summary": "보험사 상품개발에 문턱 높여 소소비자 보험선택 도움 주기로금융당국이 보험 소비자 편익을 높이기 위해 보험사들의 과도한 특약·담보 ‘쪼개기’ 경쟁에 제동을 건다. 그동안 하나의 보험..",
+      "link": "https://www.mk.co.kr/news/economy/12186139",
+      "publishedAt": "2026-10-26T08:45:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "글로벌 녹색성장 주간 개막…GGGI, 녹색성장 경쟁력지표 공개",
+      "summary": "27~30일 녹색경쟁력방안 논의인공지능(AI) 데이터센터의 전력·용수 수요 증가에 대응하기 위한 국제협력 논의가 열린다. 각국의 녹색산업 경쟁력을 비교하는 새로운 지표도 처음 공개..",
+      "link": "https://www.mk.co.kr/news/economy/12186135",
+      "publishedAt": "2026-10-26T08:45:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] \"AI 꺾이면 반도체 수출 1천억弗 타격\"",
+      "summary": "내년 미국 빅테크 기업의 인공지능(AI) 투자가 둔화되면 한국의 반도체 수출액이 당초 전망보다 최대 1000억달러 줄어들 수 있다는 한국은행의 경고가 나왔다. 반도체가 전체 수출..",
+      "link": "https://www.mk.co.kr/news/economy/12186131",
+      "publishedAt": "2026-10-26T08:44:59.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -4098,246 +4338,6 @@
       "summary": "임대주택 수선자금 2.5조 위탁운용 금융자산 담보로 1.2조 추가 차입 투자 규모 3.7조로…758억 평가손실 차입 한도·담보 위험 관리기준 부재한국토지주택공사(LH)가 공공임대주..",
       "link": "https://www.mk.co.kr/news/economy/12179552",
       "publishedAt": "2026-10-19T22:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"엔비디아의 진짜 해자 CUDA에 도전\"…아마존,AI칩 소프트웨어 공개",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610191823i",
-      "publishedAt": "2026-10-19T15:11:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "이찬진 \"의무복무 병사 대부업체 대출 금지 검토\"(종합3보)",
-      "summary": "(서울=연합뉴스) 배영경 강수련 김지연 강류나 기자 = 이찬진 금융감독원장은 19일 단일종목 레버리지 상장지수펀드(ETF)의 상장 일정을 맞추기...",
-      "link": "https://www.yna.co.kr/view/AKR20261019071353002",
-      "publishedAt": "2026-10-19T14:43:18.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "'다우키움·CJ 컨소시엄' 중앙일보 품는다",
-      "summary": "워크아웃을 진행 중인 중앙일보가 다우키움그룹을 새 주인으로 맞는다. 숏리스트에 이름을 올린 6곳 모두 입찰에 참여했지만, CJ그룹의 막판 컨소시엄 합류가 인수전 판도를 흔든 것으로..",
-      "link": "https://www.mk.co.kr/news/stock/12180105",
-      "publishedAt": "2026-10-19T14:42:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼정KPMG, 11월 2일 ‘해외 투자 진출 세미나’",
-      "summary": "국내 기업 해외 진출 위한 국가별 투자 전략 제시삼정KPMG가 오는 11월 2일 삼성동 그랜드인터컨티넨탈 서울 파르나스 호텔에서 ‘해외 투자 진출 세미나’를 개최한다고 19일 밝혔..",
-      "link": "https://www.mk.co.kr/news/stock/12180102",
-      "publishedAt": "2026-10-19T14:13:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 증시, AI 관련 주식 저가 매수에 나스닥 반등",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610191800i",
-      "publishedAt": "2026-10-19T14:13:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "다올투자증권, 국내 증권사 최초 ‘트레이딩뷰’서 미국주식 거래",
-      "summary": "트레이딩뷰 한 화면에서 차트 분석 및 국내·미국주식·ETF 주문 DAOL Fi PRO·MCP 트레이딩 이어 다올 계좌 활용 폭 확대다올투자증권이 19일 글로벌 차트 분석 플랫폼 ..",
-      "link": "https://www.mk.co.kr/news/stock/12180100",
-      "publishedAt": "2026-10-19T14:10:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "중앙일보 인수 우선협상자에 다우키움·CJ 컨소시엄 선정",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101917961",
-      "publishedAt": "2026-10-19T13:55:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "이찬진 \"금감원 현장에 있어야…지방이전 정책적 고려 기다려\"",
-      "summary": "(서울=연합뉴스) 강수련 김지연 기자 = 이찬진 금융감독원장은 19일 지방이전과 관련해 &quot;금감원이 현장에 있어야 한다는 부분을 정책적으로 적극 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261019179600002",
-      "publishedAt": "2026-10-19T13:51:13.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "JP모건, 맞으면 좋고 틀리면 말고…1만5천피 외치더니 “코스피 바닥 몰라”",
-      "summary": "선행 PER 역사적 최저에도 외인·기관 매수복귀 불투명글로벌 투자은행 JP모건이 최근 코스피 급락과 관련해 “밸류에이션이 매력적이지만 바닥을 확신할 수는 없다”고 진단했다. 19일..",
-      "link": "https://www.mk.co.kr/news/stock/12180088",
-      "publishedAt": "2026-10-19T13:51:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "중앙일보 인수 우협에 다우키움·CJ 컨소시엄 선정(종합)",
-      "summary": "(서울=연합뉴스) 정회인 기자 = 중앙일보 경영권 인수 우선협상대상자로 다우키움그룹과 CJ그룹 컨소시엄이 선정됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20261019144551008",
-      "publishedAt": "2026-10-19T13:46:53.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"월급 빼고 다 오르는데\"…폭스바겐 2030년까지 임금 동결 추진",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101917897",
-      "publishedAt": "2026-10-19T13:36:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "기술유출 걸리면 개발비부터 전부 배상…산업스파이 처벌수위 확 높이기로",
-      "summary": "수사기관과 공조해 신속 대응 범죄수익 몰수대상 확 넓히고 기업R&D 비용도 손배에 반영정부가 반도체 등 첨단산업의 기술 유출에 대응하기 위해 산업통상부에 특별사법경찰 권한을 부여하..",
-      "link": "https://www.mk.co.kr/news/economy/12180077",
-      "publishedAt": "2026-10-19T13:35:53.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"돈 풀면 국가부도, 돈 줄이면 폭동\"…진퇴양난 프랑스 국가부채",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610191780i",
-      "publishedAt": "2026-10-19T13:15:24.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "현대차, 하청 급식업체와 원청교섭 나서나",
-      "summary": "중노위, 근로조건 사용자성 인정중앙노동위원회가 현대자동차 구내식당 근무자들이 속한 현대그린푸드 노조의 산업안전 관련 근로조건에 대한 현대차의 사용자성이 인정된다고 판단했다. 중노위..",
-      "link": "https://www.mk.co.kr/news/economy/12180056",
-      "publishedAt": "2026-10-19T13:03:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼전닉스 실적 과거일 뿐\"…'코스피 4800선 추락' 경고 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101910246",
-      "publishedAt": "2026-10-19T13:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"갈취 수준\" 삼전닉스 겨냥한 머스크…전문가는 정면반박",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101917517",
-      "publishedAt": "2026-10-19T12:04:55.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "야근 중에도 '홀짝홀짝'…MZ들 지갑 여는 '와인' 정체 [현장+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610199278g",
-      "publishedAt": "2026-10-19T12:00:28.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[게시판] DB저축銀, 파킹통장 한도 1억원으로 확대…금리 3.3%",
-      "summary": "▲ DB저축은행이 파킹통장(수시입출금 통장) 상품인 &apos;드림빅(DreamBig) 보통예금&apos;의 최고금리를 연 3.3%로 인상하고, 금리 적용 한도를...",
-      "link": "https://www.yna.co.kr/view/AKR20261019175000002",
-      "publishedAt": "2026-10-19T11:39:56.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“삼전닉스 35억원이었는데 지금은 2억 남았다”…더 큰 수익내려다 ‘폭망’",
-      "summary": "레버리지 투자로 손실 커 만회 위해 비중 높이기도최근 직장인 익명 커뮤니티 ‘블라인드’에는 반도체주 투자로 거액의 수익을 거뒀다가 대부분을 잃었다는 직장인 A씨의 사연이 전해졌다...",
-      "link": "https://www.mk.co.kr/news/stock/12179997",
-      "publishedAt": "2026-10-19T11:29:14.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“메뉴판 가격 보다가 화들짝”…서울 비빔밥 평균 가격 1만2천원",
-      "summary": "서울에서 비빔밥 한 그릇 평균 가격이 처음으로 1만2000원 대에 들어섰다. 19일 한국소비자원 가격정보 종합포털 ‘참가격’을 보면 서울 비빔밥 한 그릇의 평균 가격은 지난 9월 ..",
-      "link": "https://www.mk.co.kr/news/economy/12179966",
-      "publishedAt": "2026-10-19T10:27:30.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "18년 끌어온 대전역세권 개발 무산되나…한화 결국 포기",
-      "summary": "(대전=연합뉴스) 박주영 기자 = 20년 가까이 끌어온 대전역세권 복합 2-1구역 개발사업이 무산될 위기에 놓였다.",
-      "link": "https://www.yna.co.kr/view/AKR20261019170400063",
-      "publishedAt": "2026-10-19T10:24:11.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"연임 자격 있나\" 국회 질타에 고개 숙인 은행장들(종합2보)",
-      "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 주요 시중은행 행장들이 금융권 해킹 사태와 관련해 국회 증인석에 나와 거듭 고개를 숙였다.",
-      "link": "https://www.yna.co.kr/view/AKR20261019140652002",
-      "publishedAt": "2026-10-19T10:23:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "베트남 진출 韓기업 부가세 환급길 열렸다…과거 거래도 소급 적용",
-      "summary": "2022년부터 韓기업 환급 지연 정부 지속 요청에 해결 실마리 베트남, 세무당국에 지침 하달 법 개정 전 거래에도 환급 허용베트남에 진출한 국내 기업들의 주요 애로사항으로 꼽혀온 ..",
-      "link": "https://www.mk.co.kr/news/economy/12179960",
-      "publishedAt": "2026-10-19T10:08:21.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "코스피 반등 모멘텀 찾을까…금통위·테슬라 실적이 시험대 [동여의도 위클리]",
-      "summary": "이번 주 자본시장 이슈 점검미국의 물가 지표가 반도체주를 다시 흔들었습니다. 지난 14일(현지시간) 발표된 미국의 9월 소비자물가지수(CPI)는 전년 동월보다 3.7% 상승했습니다..",
-      "link": "https://www.mk.co.kr/news/stock/12179944",
-      "publishedAt": "2026-10-19T09:56:23.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“월급 이체도 카드 실적도 필요 없다”…1억원까지 연 3.3% 주는 통장",
-      "summary": "월급 이체나 카드 사용 실적 등 까다로운 조건 없이 연 3.3%의 금리를 받을 수 있는 입출금통장이 나왔다. 최대 1억원까지 해당 금리가 적용되며, 기존 가입자도 같은 혜택을 받을..",
-      "link": "https://www.mk.co.kr/news/economy/12179940",
-      "publishedAt": "2026-10-19T09:34:57.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "KB증권, 베트남 교육 인프라 개선",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101915491",
-      "publishedAt": "2026-10-19T09:33:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "소방 인건비 재원 '안전교부세' 3000억 삭감된 까닭",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101915051",
-      "publishedAt": "2026-10-19T09:15:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“우리 아이 독감인데 보험금 왜 안주나요”…보험 보장 받을 때 주의할 점",
-      "summary": "독감환자 영유아중심으로 증가 연간 1회제한 보장한도 20만원 가입 후 ‘열흘간’ 지급 안돼 유의 면책기간과 보험료 효과 따져야최근 초가을을 맞아 독감이 유행하면서 독감 치료비와 진..",
-      "link": "https://www.mk.co.kr/news/economy/12179934",
-      "publishedAt": "2026-10-19T09:15:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "배터리주 들썩…\"中 ESS 업체 美서 철수\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101915251",
-      "publishedAt": "2026-10-19T09:02:56.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'마이너스 밭에서 조용히 올랐다'…급락장서 돈 몰린 '종목'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101915281",
-      "publishedAt": "2026-10-19T09:00:12.000Z"
     }
   ]
 }
