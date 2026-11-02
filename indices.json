@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:30:55.113Z",
+  "updatedAt": "2026-11-02T00:03:46.604Z",
   "indices": [
     {
       "symbol": "^KS11",
@@ -10,17 +10,9 @@
       "previous": 5937.66,
       "dayChange": -206.92,
       "dayChangePct": -3.48,
-      "monthChangePct": -16.19,
+      "monthChangePct": -18.18,
       "lastUpdated": "2026-10-30T11:05:40.000Z",
       "candles": [
-        {
-          "date": "2026-09-30",
-          "close": 6838.04
-        },
-        {
-          "date": "2026-10-01",
-          "close": 6971.35
-        },
         {
           "date": "2026-10-02",
           "close": 7003.74
