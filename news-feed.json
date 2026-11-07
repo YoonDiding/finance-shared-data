@@ -1,8 +1,80 @@
 {
-  "updatedAt": "2026-11-07T09:27:11.300Z",
+  "updatedAt": "2026-11-07T15:59:17.110Z",
   "historyDays": 7,
-  "count": 397,
+  "count": 402,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "보험금 분쟁 막는 데 집중…지급 공정성·소비자 보호 강화하는 보험사",
+      "summary": "보험금 분쟁 해마다 끊이질 않아 보험사, 외부 위원 위촉·TF 구성보험업계가 소비자 보호를 위해 보험금 분쟁을 해결하는 데 집중하고 있다. 보험사마다 외부 위원을 위촉하거나 소비자..",
+      "link": "https://www.mk.co.kr/news/economy/12201540",
+      "publishedAt": "2026-11-07T13:05:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "내일 한국 오기로 했는데…젠슨 황 장녀 방한 돌연 취소",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026110724057",
+      "publishedAt": "2026-11-07T12:38:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "이 정도면 도박보다 심하네…하루만에 40% 급락한 속슬, 서학개미 어쩌나",
+      "summary": "美반도체지수 7개월來 최저치 반도체x3 속슬, 5일 40% 폭락 기술주 추종 ETF서 대거 떨어져뉴욕증시에서 반도체 지수가 7개월 만에 최저치를 찍은 가운데 미 증시에 상장한 레버..",
+      "link": "https://www.mk.co.kr/news/stock/12201537",
+      "publishedAt": "2026-11-07T12:32:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "1500억 자사주 소각에 폭락장 견뎠지만…목표가는 반토막 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026110611706",
+      "publishedAt": "2026-11-07T12:28:50.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "로또 1등 14명 '대박'…1인당 20억씩 받는다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026110723997",
+      "publishedAt": "2026-11-07T12:15:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "어쩐지 2030 많이 보이더라…'신세계百 강남점' 갔다가 깜짝 [류은혁의 유통기한]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611072089i",
+      "publishedAt": "2026-11-07T11:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"평생 모은 5억 주식에 몰빵, 4억 넘게 날렸다\"…직장인 절규",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026110723527",
+      "publishedAt": "2026-11-07T10:38:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "“치이카와 보러 왔다가 햄버거까지”…세계 매출 톱5 비결 [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611072240i",
+      "publishedAt": "2026-11-07T10:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“강남 집값 하락률 4.8배 차이”…세입자도 집주인도 “어느 통계 믿나” 대혼란",
+      "summary": "부동산 시장지표 기관별 차이 10월 서울 강남구 아파트값선 공공 -1.38%·민간선 -0.29% 실거래가 중심 통계 정비해야공공기관과 민간업체가 내놓는 집값 통계의 차이를 두고 시..",
+      "link": "https://www.mk.co.kr/news/realestate/12201505",
+      "publishedAt": "2026-11-07T09:50:22.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3146,38 +3218,6 @@
       "summary": "10월 美주식 54억불 매수 최대 반도체3배 SOXL ‘편애’ 불구 한달새 주가 30% 빠져 울상 외인 이달 코스피 18조 순매도 3개월 누적 50조원 팔아치워이번 달 서학개미들..",
       "link": "https://www.mk.co.kr/news/stock/12192523",
       "publishedAt": "2026-10-31T21:03:38.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "‘월 3000만원 따박따박’ 공정위 전관 변호사…기업 승소율은 되레 낮아",
-      "summary": "6대 로펌 기업 승소율 20.3% 전관 참여 사건은 14.8% 그쳐공정거래위원회 관료 출신 변호사의 승소율이 그렇지 않은 변호사보다 더 낮은 것으로 나타났다. 이들은 대형 로펌 재..",
-      "link": "https://www.mk.co.kr/news/economy/12192512",
-      "publishedAt": "2026-10-31T13:41:44.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "李대통령, 野 '순방' 비판에 \"링거 맞고 코피…그결과 성과차이\"(종합)",
-      "summary": "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 31일 &quot;민생은 무너지는데 벌써 14차례 23개국을 순방했다&quot;는 야당의 비판을 겨냥해 &quot;부처 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261031028951001",
-      "publishedAt": "2026-10-31T11:07:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"이게 무슨 조합?\"…케데헌·오겜·흑백요리사 한데 모인 이유 [류은혁의 유통기한]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610306404i",
-      "publishedAt": "2026-10-31T11:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"주식은 무서워서 못 사겠다\"…한 달 새 4.2조 몰린 '피난처' [투자톡]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026103064936",
-      "publishedAt": "2026-10-31T10:07:53.000Z"
     }
   ]
 }
