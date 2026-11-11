@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-11-11T00:57:06.876Z",
+  "updatedAt": "2026-11-11T10:05:01.432Z",
   "historyDays": 7,
   "count": 400,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "정부, GS건설 아파트 시스템 침해사고에 직권조사한다(종합)",
+      "summary": "(서울=연합뉴스) 박형빈 기자 = 과학기술정보통신부는 GS건설[006360]의 아파트 커뮤니티 시설 예약·관리 시스템에서 발생한 침해사고의 피해...",
+      "link": "https://www.yna.co.kr/view/AKR20261111163101017",
+      "publishedAt": "2026-11-11T09:47:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "정부 이어 여야도 '가상자산 과세 2년 유예' 잠정 합의",
+      "summary": "(서울=연합뉴스) 박재하 기자 = 정부가 내년부터 시행될 예정이었던 가상자산 소득과세를 2년간 연기키로 한 가운데 여야도 관련 내용을 반영해 법...",
+      "link": "https://www.yna.co.kr/view/AKR20261111170100001",
+      "publishedAt": "2026-11-11T09:43:42.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'회계처리 위반' 셀바스헬스케어·대우산업개발에 감사인지정",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 금융위원회 산하 증권선물위원회는 11일 회계처리 기준을 위반해 재무제표를 작성·공시한 셀바스헬스케어[20837...",
+      "link": "https://www.yna.co.kr/view/AKR20261111170800002",
+      "publishedAt": "2026-11-11T09:41:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "미공개정보 이용해 부당이득 취득…증선위, 중수청 고발·통보",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 금융위원회 산하 증권선물위원회가 업무상 취득한 미공개 중요정보를 이용해 회사 주식을 매매하고, 이를 바탕으로 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261111170000002",
+      "publishedAt": "2026-11-11T09:40:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "이중근 부영 회장, ‘유엔참전용사 추모’ 국민대표로 헌화",
+      "summary": "국민 대표로 2년째 참배부영그룹은 이중근 회장이 ‘제20회 유엔참전용사 국제추모의 날’ 기념식에서 국민대표로 헌화했다고 11일 밝혔다. 이날 기념식은 한국전쟁 때 희생된 유엔군 참..",
+      "link": "https://www.mk.co.kr/news/economy/12205696",
+      "publishedAt": "2026-11-11T09:26:29.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "금융위, 13일 자본시장 간담회…코스닥 활성화 등 논의할듯",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 정부가 오는 13일 한국거래소에서 자본시장 현안을 논의하는 간담회를 개최하는 것으로 전해졌다.",
+      "link": "https://www.yna.co.kr/view/AKR20261111168700008",
+      "publishedAt": "2026-11-11T09:25:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "채병득 금융결제원장, 불법사금융 피해 막는 ‘사람 살리는 금융’ 동참…다음 주자는?",
+      "summary": "서민금융진흥원 릴레이 캠페인 참여 “금융의 사회적 가치 실현에 최선”채병득 금융결제원장이 불법사금융 피해로 어려움을 겪는 서민들을 보호하고 금융의 사회적 책임을 실천하기 위한 뜻깊..",
+      "link": "https://www.mk.co.kr/news/economy/12205695",
+      "publishedAt": "2026-11-11T09:24:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"시장의 모순은 큰 기회\"…하락장에 숨겨진 반전 매력",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611108014i",
+      "publishedAt": "2026-11-11T09:11:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "금투협 \"국고채 PD사 제재 과도, 심각한 부작용 우려…대외신인도 타격\"",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 공정거래위원회가 국고채 입찰 담합에 대해 금융투자업계에 역대 최대 과징금 부과를 결정한 가운데 금융투자협회는 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261111165500008",
+      "publishedAt": "2026-11-11T09:10:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코어위브 깜짝 실적에…AI인프라주 '온기'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111110591",
+      "publishedAt": "2026-11-11T09:07:20.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "매파 목소리 커진 Fed, 연말 '빅스텝' 나서나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111109781",
+      "publishedAt": "2026-11-11T09:04:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"아시아의 코어위브 기대\"…外人, 네이버 쓸어담았다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111110551",
+      "publishedAt": "2026-11-11T09:03:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "TSMC, 오픈AI·앤트로픽 10억弗 투자",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111109811",
+      "publishedAt": "2026-11-11T09:02:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'희토류 고무 개발' 中, 타이어 시장 공략",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111109771",
+      "publishedAt": "2026-11-11T09:02:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "전력 도매가, 20년만에 차등화…\"남는 곳 싸게, 모자란 곳 비싸게\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111109691",
+      "publishedAt": "2026-11-11T09:02:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "하워드 막스 \"AI기업, 전통적 방식으로 가격 판단하기 어려워\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111110511",
+      "publishedAt": "2026-11-11T09:01:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "예외없이 차등가격 적용하되 '퇴로' 열어주기로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111109701",
+      "publishedAt": "2026-11-11T09:01:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "휴머노이드 부품에 4400억 투입…2030년 국산화율 80%로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111109721",
+      "publishedAt": "2026-11-11T09:00:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "경제전망 발표, 내년부터 연 3회로 확대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111109711",
+      "publishedAt": "2026-11-11T09:00:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "제이앤티지·씨앤엠, 흥행 실패에 상장철회",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111110541",
+      "publishedAt": "2026-11-11T08:59:19.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“정부가 10만원 지원하면 소비 얼마나 늘까”…GPT로 효과 예측한다",
+      "summary": "오픈AI, 전 세계서 14개 정책 연구 선발 권혁구 난양공대 교수 연구 지원 중 2025년 소비쿠폰 실제 데이터 활용 지원금 규모·기한·사용처 바꿔 효과 비교정부가 국민에게 10만..",
+      "link": "https://www.mk.co.kr/news/economy/12205674",
+      "publishedAt": "2026-11-11T08:51:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "국고채 담합 1.6조 과징금…시장 혼란",
+      "summary": "국고채 입찰에서 담합한 금융사 15곳에 1조6000억원대 과징금이 부과됐다. 공정거래위원회가 매긴 과징금 가운데 사상 최대 규모다. 금융권이 업무상 관행을 담합으로 몰았다며 법적 ..",
+      "link": "https://www.mk.co.kr/news/economy/12205669",
+      "publishedAt": "2026-11-11T08:48:52.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "네이버, 美 데이터센터 규제 '반사이익' … 두산에너빌과 시총 20위 각축",
+      "summary": "미국의 데이터센터 건설 규제 우려가 커지면서 네이버를 비롯한 국내 기업이 반사이익을 볼 것이라는 기대가 높아지고 있다. 이 같은 수혜를 바탕으로 네이버가 시가총액 20위권 진입을 ..",
+      "link": "https://www.mk.co.kr/news/stock/12205639",
+      "publishedAt": "2026-11-11T08:41:29.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "관리종목 딱지 떼도 … 90%는 주가 떨어져",
+      "summary": "코스닥시장에서 관리종목이나 투자주의환기종목에 지정됐던 곳들이 주가 관리에 비상이 걸렸다. 투자자 주의를 요구했기 때문에 이처럼 지정됐다가 요건을 해소한 이후에도 주가가 큰 폭으로 ..",
+      "link": "https://www.mk.co.kr/news/stock/12205637",
+      "publishedAt": "2026-11-11T08:41:28.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "증권 웃었지만 … 메리츠금융 고전",
+      "summary": "메리츠금융지주의 올해 3분기 당기순이익이 전년 동기 대비 26.6% 감소했다. 핵심 계열사인 메리츠화재가 금융시장 변동성 확대에 따른 투자손익 감소로 부진한 실적을 거둔 영향이다...",
+      "link": "https://www.mk.co.kr/news/stock/12205638",
+      "publishedAt": "2026-11-11T08:41:28.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "\"K팝 팬덤을 투자로 이끌 토큰증권 상품 개발해야\"",
+      "summary": "\"K팝 등 한국 문화를 즐기는 글로벌 팬덤을 콘텐츠 소비자에서 한국 문화산업의 투자자로 연결할 수 있는 토큰증권 상품 개발이 시급합니다.\" 내년 2월 토큰증권 시대 개막을 앞두고 ..",
+      "link": "https://www.mk.co.kr/news/stock/12205636",
+      "publishedAt": "2026-11-11T08:41:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "현기증 시달린 ETF·ETN … 하루 VI 발동, 10월의 3배",
+      "summary": "국내 증시가 급락과 반등을 반복하면서 상장지수펀드(ETF)와 상장지수증권(ETN)의 변동성완화장치(VI) 발동이 급증하고 있다. 이달 들어 8거래일 만에 지난 한 달간의 발동 건..",
+      "link": "https://www.mk.co.kr/news/stock/12205635",
+      "publishedAt": "2026-11-11T08:41:26.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "\"한해 이익 거의 토해낼판\"… 업계, 불복 소송 검토",
+      "summary": "국고채 담합 의혹에 휘말린 금융사들은 역대급 과징금을 놓고 소송 여부를 적극 검토하고 있다. 특히 1년간 거둔 영업이익의 상당 부분을 토해낼 처지에 놓인 증권사들의 고심이 깊어지고..",
+      "link": "https://www.mk.co.kr/news/stock/12205621",
+      "publishedAt": "2026-11-11T08:40:16.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "재경부 \"국채 발행 차질 우려\"",
+      "summary": "공정거래위원회가 국고채 입찰에서 담합을 했다며 주요 증권사와 은행에 역대 최대 과징금을 매긴 가운데 재정경제부가 공정위 심의 과정에서 제재 수위를 조절해달라고 요청한 것으로 확인됐..",
+      "link": "https://www.mk.co.kr/news/economy/12205620",
+      "publishedAt": "2026-11-11T08:40:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "전체 취업자 늘었지만…청년 4년째 '고용 한파'",
+      "summary": "지난달 전체 취업자 수가 13만9000명 늘었지만 청년 취업자는 48개월 연속 감소한 것으로 나타났다. 11일 국가데이터처가 발표한 '10월 고용동향'에 따르면 지난달 15세 이상..",
+      "link": "https://www.mk.co.kr/news/economy/12205612",
+      "publishedAt": "2026-11-11T08:36:46.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -2962,246 +3202,6 @@
       "summary": "작년 8176명에 314억 기초연금 지급 “국민연금 오래 내도 기초연금 깎이는데 복수국적자는 해외소득·자산 검증 안돼” 형평성 논란 커지며 제도 보완 목소리“요즘 국가 정책들을 보..",
       "link": "https://www.mk.co.kr/news/economy/12197871",
       "publishedAt": "2026-11-04T23:28:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "라이즈·NCT 위시…SM, 5세대 앞세워 반등 노린다 [엔터X스탁]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611045851H",
-      "publishedAt": "2026-11-04T09:51:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한국, 아시아지배구조협회 기업지배구조서 5위…3단계 올라",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 금융위원회는 한국이 아시아지배구조협회(ACGA)의 &apos;2026년 아시아·태평양 12개국 기업지배구조 순위&apos;에서 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261104168200002",
-      "publishedAt": "2026-11-04T09:50:49.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "다우키움·CJ·신세계 컨소시엄, 5일 중앙일보 인수 본계약",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611046486i",
-      "publishedAt": "2026-11-04T09:33:23.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[속보] 호반그룹, 한진칼 최대주주 됐다…조원태 회장에 0.11%p 앞서",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110465197",
-      "publishedAt": "2026-11-04T09:28:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "과징금·화재에…쿠팡 올해 누적손실 1.8조",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110463991",
-      "publishedAt": "2026-11-04T09:26:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "다우·CJ컨소시엄, 5200억에 중앙일보 신주인수계약",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110465057",
-      "publishedAt": "2026-11-04T09:23:40.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "삼성전자 TV, 美 소비자 평가서 전 부문 1위",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110464001",
-      "publishedAt": "2026-11-04T09:22:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[단독] DL그룹, 세계 1위 의료용 합성고무기업 판다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110463931",
-      "publishedAt": "2026-11-04T09:21:32.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "정책금융기관 글로벌 스케일업 협력펀드 위탁운용사 3곳 선정",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 산업은행과 기업은행, 수출입은행 등 3대 국책은행은 &apos;정책금융기관 글로벌 스케일업 협력펀드&apos; 위탁운용사로 3개...",
-      "link": "https://www.yna.co.kr/view/AKR20261104167500002",
-      "publishedAt": "2026-11-04T09:21:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "위성락, 방글라 총리 특사 접견…경제·방산협력 강화방안 논의",
-      "summary": "(서울=연합뉴스) 설승은 기자 = 위성락 국가안보실장은 4일 방글라데시 총리 특사 자격으로 방한한 아미르 코스루 마흐무드 초우두리 방글라데시 재...",
-      "link": "https://www.yna.co.kr/view/AKR20261104165300001",
-      "publishedAt": "2026-11-04T09:20:21.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[단독] 배터리 3사 잡은 엘앤에프, LFP 양극재 신공장 만든다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110463951",
-      "publishedAt": "2026-11-04T09:19:49.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "LX인터, 3분기 영업익 1431억원",
-      "summary": "전년比 120% 증가LX인터내셔널은 연결 기준 올해 3분기 영업이익이 1431억원으로 전년 동기 대비 120.8% 증가한 것으로 잠정 집계됐다고 4일 공시했다. 3분기 매출은 5조..",
-      "link": "https://www.mk.co.kr/news/stock/12196742",
-      "publishedAt": "2026-11-04T09:19:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "SK, 에코플랜트 완전 자회사로 만든다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110463981",
-      "publishedAt": "2026-11-04T09:18:42.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[속보] 경찰, 강호동 농협중앙회장 구속영장 신청…금품수수 등 혐의",
-      "summary": "경찰이 1억원대 금품 수수 의혹을 받는 강호동 농협중앙회장에 대해 구속영장을 신청했다. 지난해 10월 농협중앙회 본사를 압수수색하며 본격적인 수사에 착수한 지 1년여 만이다. 4일..",
-      "link": "https://www.mk.co.kr/news/economy/12196740",
-      "publishedAt": "2026-11-04T09:18:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "10월 수입차 판매 작년보다 29.3% 증가",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110463971",
-      "publishedAt": "2026-11-04T09:18:25.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "PRS 회계 처리 1년째 결론 못내",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110463441",
-      "publishedAt": "2026-11-04T09:01:59.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "summary": "■ 美 덮친 &apos;블루쓰나미&apos;…민주, 하원에 상원까지 의회권력 장악",
-      "link": "https://www.yna.co.kr/view/AKR20261104154100011",
-      "publishedAt": "2026-11-04T09:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] 26만 간병인 산재보험 품는다…보험료 최대 80% 정부 지원 검토",
-      "summary": "정부가 국고로 80% 지원 한뒤 간병인·중개소 5:5 부담 추진 보험 마지막 사각지대 없애종전까지 산재보험 지원에서 제외됐던 민간 간병노동자 26만명이 2028년부터 산재보험 테두..",
-      "link": "https://www.mk.co.kr/news/economy/12196722",
-      "publishedAt": "2026-11-04T08:59:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "IPO·유증 이어 PRS까지…기업 \"신사업 무슨 돈으로\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110463421",
-      "publishedAt": "2026-11-04T08:55:55.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "다우기술 \"중앙일보 주식 1천900억원어치 취득…지분율 34.4%\"",
-      "summary": "(서울=연합뉴스) 코스피 상장사 다우기술[023590]은 「신문 등의 진흥에 관한 법률」에 근거한 신문제조판매사업 업체 중앙일보의 주식 3천80...",
-      "link": "https://www.yna.co.kr/view/AKR20261104162300008",
-      "publishedAt": "2026-11-04T08:47:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] 넘치는 삼전닉스 돈 … 기업예금 1천조 돌파",
-      "summary": "A은행에서 대기업 영업을 맡고 있는 한 임원은 밀려드는 '반도체 머니' 때문에 고민이 크다. 삼성전자와 SK하이닉스 등 수출 대기업이 뭉칫돈을 들고 은행 문을 두드리지만 정작 은행..",
-      "link": "https://www.mk.co.kr/news/economy/12196702",
-      "publishedAt": "2026-11-04T08:45:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "\"기업가치 자신감\" … 곽동신 또 자사주 매입",
-      "summary": "곽동신 한미반도체 회장이 또 한 번 자사주를 100억원어치 매입했다. 3분기 성적이 전 분기 대비 뒷걸음친 상황에서 향후 실적 확대에 대한 자신감을 드러내는 행보다. 4일 금융감독..",
-      "link": "https://www.mk.co.kr/news/stock/12196694",
-      "publishedAt": "2026-11-04T08:43:55.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "기업분할 ㈜한화 순익 1조 … 현대百 영업익 30% 급증",
-      "summary": "(주)한화가 올 3분기에만 당기순이익 1조원을 넘어섰다. 한화머시너리앤서비스홀딩스와 인적분할하는 과정에서 발생한 사업양도이익 덕분이다. (주)한화는 3분기 별도 기준으로 매출 8..",
-      "link": "https://www.mk.co.kr/news/stock/12196692",
-      "publishedAt": "2026-11-04T08:43:53.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "선거 졌지만 … 주식투자는 美공화당이 이겨",
-      "summary": "미국 중간선거를 계기로 정치 테마 상장지수펀드(ETF)에 이목이 집중되는 가운데 공화당 의원의 투자 종목을 추종하는 상품이 민주당 의원 추종 상품보다 좋은 성과를 기록하고 있어 눈..",
-      "link": "https://www.mk.co.kr/news/stock/12196691",
-      "publishedAt": "2026-11-04T08:43:53.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "\"美민주당 승리, 신재생·헬스케어 수혜… AI株 분할매수를\"",
-      "summary": "3일(현지시간) 미국 중간선거에서 민주당이 압승을 거뒀다는 소식이 전해지면서 국내 증시도 요동을 쳤다. 도널드 트럼프 미 대통령이 패배를 인정하고 민주당과 협력하겠다고 밝히자 불안..",
-      "link": "https://www.mk.co.kr/news/stock/12196690",
-      "publishedAt": "2026-11-04T08:43:52.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "사람인 \"중앙일보 주식 714억원어치 취득…지분율 12.9%\"",
-      "summary": "(서울=연합뉴스) 코스닥 상장사 사람인[143240]은 「신문 등의 진흥에 관한 법률」에 근거한 신문제조판매사업 업체 중앙일보의 주식 1천428...",
-      "link": "https://www.yna.co.kr/view/AKR20261104161600008",
-      "publishedAt": "2026-11-04T08:42:33.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[표] 외국환율고시표",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12196642",
-      "publishedAt": "2026-11-04T08:35:42.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[표] 당좌거래정지",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12196643",
-      "publishedAt": "2026-11-04T08:35:42.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "'쉬었음' 청년 3명중 1명 \"원하는 일자리 없어요\"",
-      "summary": "경제활동에 참여하지 않는 인구 중 1년 이내 취·창업 의사가 없는 인구가 8년 만에 80%를 넘어섰다. 채용문이 좁아지면서 구직을 포기하고 가사활동이나 학업에 매진하는 인구가 늘어..",
-      "link": "https://www.mk.co.kr/news/economy/12196640",
-      "publishedAt": "2026-11-04T08:35:41.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“기업이 합쳤는데 왜 세금 내라는 거냐”…테슬라·스페이스X 합병 가능성에 청원",
-      "summary": "조직재편 따른 양도소득세 부과 개선요구 “稅부담 대비 분할납부 등 한시적 조치를”테슬라와 스페이스X의 합병 가능성이 거론되면서 국내 투자자들이 해외주식 과세제도 개선을 요구하고 나..",
-      "link": "https://www.mk.co.kr/news/stock/12196613",
-      "publishedAt": "2026-11-04T08:31:05.000Z"
     }
   ]
 }
