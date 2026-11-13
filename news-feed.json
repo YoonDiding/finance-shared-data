@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-11-13T01:34:56.444Z",
+  "updatedAt": "2026-11-13T10:22:39.408Z",
   "historyDays": 7,
   "count": 402,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "빌리프랩·쏘스뮤직, 민희진 상대 20억 손배소 1심서 패소(종합)",
+      "summary": "(서울=연합뉴스) 정지수 이태수 기자 = 하이브 산하 레이블 빌리프랩이 민희진 전 어도어 대표에게 제기한 손해배상소송 1심에서 패소했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261113166651004",
+      "publishedAt": "2026-11-13T10:14:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] 특허법원도 '노모어피자' 손 들어줘…\"상표권 리스크 해소\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611135104g",
+      "publishedAt": "2026-11-13T09:41:59.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[동정] 해수부 장관, 부산 부전시장서 수산물 판매 동향 점검",
+      "summary": "▲ 황종우 해양수산부 장관은 13일 &apos;2026 코리아 그랜드 페스티벌&apos;을 계기로 부산 부전시장을 방문해 수산물 판매 동향을 점검했다. 황 장관은...",
+      "link": "https://www.yna.co.kr/view/AKR20261113166300030",
+      "publishedAt": "2026-11-13T09:36:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'조선미녀' 구다이글로벌, 코스피 상장 도전장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111359051",
+      "publishedAt": "2026-11-13T09:32:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "KB손보, 60번째 아동 주거환경 개선",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111358311",
+      "publishedAt": "2026-11-13T09:30:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "빌리프랩, '아일릿이 뉴진스 표절' 주장 민희진 상대 손배소 패소",
+      "summary": "(서울=연합뉴스) 정지수 기자 = 하이브 산하 레이블 빌리프랩이 민희진 전 어도어 대표에게 제기한 손해배상소송에서 패소했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261113166600004",
+      "publishedAt": "2026-11-13T09:30:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "현대百 '발달장애인 사업장' 1억 지원",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111358341",
+      "publishedAt": "2026-11-13T09:28:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'올해의 PR인' 이정원 효성그룹 전무",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111358351",
+      "publishedAt": "2026-11-13T09:28:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "휘발유ℓ당 1784원 석유제품 최고가격… 5차례 연속 동결",
+      "summary": "정부가 석유제품 최고가격을 5차례 연속 동결했다. 최근 국제유가가 하락하고 있지만 중동 정세가 여전히 불안한 만큼 최고가격제를 유지해 물가 부담을 덜겠다는 판단이다. 산업통상부는 ..",
+      "link": "https://www.mk.co.kr/news/economy/12208312",
+      "publishedAt": "2026-11-13T09:08:30.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "무인항공기 국제표준 총회, 17일 서울서 개막…수소·AI 표준 논의",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611135903i",
+      "publishedAt": "2026-11-13T09:03:43.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI만 잘나가는 줄 알았는데\"…영업익 91% 뛴다는 '이 회사'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111358631",
+      "publishedAt": "2026-11-13T09:03:20.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘젠슨 황 없는 엔비디아’ 미래는?…테크 전문가들은 우려와 낙관이 엇갈렸다 [이슈 플러스]",
+      "summary": "궈밍치·태 김 등 전문가 긴급진단11월 12일 젠슨 황이 엔비디아 최고경영자(CEO)와 이사회에서 사임하고 콜레트 크레스 최고재무책임자(CFO)가 임시 CEO로 취임하면서 시장이 ..",
+      "link": "https://www.mk.co.kr/news/stock/12208309",
+      "publishedAt": "2026-11-13T09:01:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "길거리 음식 부리토도 “할부로 결제할게요”…美 블프때 불티나는 선구매후결제 [홍키자의 美쿡]",
+      "summary": "미국의 대세가 된 선구매후결제(BNPL)미국 배달앱 도어대시에서 멕시코 길거리 음식인 부리토를 주문하면, 결제 화면에 버튼이 하나 더 있습니다. “4번에 나눠 내기”입니다. 도어대..",
+      "link": "https://www.mk.co.kr/news/stock/12208308",
+      "publishedAt": "2026-11-13T09:00:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "비트코인 '젠슨황 쇼크'…3개월 만에 1억원 붕괴",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111358651",
+      "publishedAt": "2026-11-13T09:00:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "정부, 4주간 석유 최고가 다시 동결",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111358851",
+      "publishedAt": "2026-11-13T09:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "석유 최고가격제 9개월째 이어진다…가격 4주 더 유지",
+      "summary": "(서울=연합뉴스) 장보인 기자 = 정부가 민생 안정을 위해 석유 최고가격을 4주간 더 동결하기로 했다. 이에 따라 지난 3월 도입된 최고가격제는...",
+      "link": "https://www.yna.co.kr/view/AKR20261113102100003",
+      "publishedAt": "2026-11-13T09:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "summary": "■ 젠슨 황 없는 엔비디아…한국과 AI 동맹에도 변화 생기나",
+      "link": "https://www.yna.co.kr/view/AKR20261113155100011",
+      "publishedAt": "2026-11-13T09:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "AI 투자 여전히 뜨겁네…앤트로픽 IPO, 공모물량 6배 몰려",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111358661",
+      "publishedAt": "2026-11-13T08:58:43.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "금호건설, 호실적에 상한가…우선주·금호전기도 '껑충'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111358641",
+      "publishedAt": "2026-11-13T08:57:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "중기부 2차 '모두의창업' 개인 정보 유출…1차 유출사고 5개월만(종합)",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부는 2차 &apos;모두의 창업&apos; 참가자 지원 기업에서 개인정보가 유출된 정황을 확인했다고 13일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261113154952030",
+      "publishedAt": "2026-11-13T08:57:44.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "'구글내비'로 길찾기 가능…국내 지도앱 지각변동 예고",
+      "summary": "구글이 국내 군사·보안시설을 가리고 지역 좌표 표시를 없애는 등 정밀지도 국외 반출을 위한 보안조치를 마치면서 소비자 이용이 많은 구글지도 서비스에 큰 폭의 변화가 생길 전망이다...",
+      "link": "https://www.mk.co.kr/news/economy/12208295",
+      "publishedAt": "2026-11-13T08:46:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "차기 은행聯 회장 6파전… 최종후보 이달 23일 결정",
+      "summary": "차기 은행연합회장 후보군이 민간 출신 5명, 관료 출신 1명으로 압축됐다. 최종 후보는 오는 23일 결정될 전망이다. 은행연합회 회장후보추천위원회(회추위)는 13일 서울 한 호텔에..",
+      "link": "https://www.mk.co.kr/news/economy/12208294",
+      "publishedAt": "2026-11-13T08:46:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "年1천억씩 소멸되는 포인트로 골목상권 회생",
+      "summary": "정부가 내년 5월부터 미사용 신용카드 포인트를 지역화폐로 전환하도록 추진하는 것은 매년 900억~1000억원 이상 나오는 잠자는 자산을 골목상권 소비로 끌어내기 위해서다. 13일 ..",
+      "link": "https://www.mk.co.kr/news/economy/12208293",
+      "publishedAt": "2026-11-13T08:46:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "정진완 우리은행장 연임 성공 '1년 더'",
+      "summary": "정진완 우리은행장(사진)이 연임에 성공했다. 내년 말까지 1년 더 우리은행을 이끈다. 13일 우리금융지주는 자회사대표이사후보추천위원회(자추위)를 열고 정 행장 임기를 2027년 ..",
+      "link": "https://www.mk.co.kr/news/economy/12208291",
+      "publishedAt": "2026-11-13T08:46:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "하나은행, 기술금융 평가 1위… 금융위 상반기 평가서 최고점",
+      "summary": "하나은행이 상반기 금융위원회의 기술금융 테크평가에서 1위를 차지했다. 하나은행이 1위를 되찾은 건 2021년 하반기 이후 5년여 만이다. 금융위는 지난 11일 테크평가위원회를 서면..",
+      "link": "https://www.mk.co.kr/news/economy/12208290",
+      "publishedAt": "2026-11-13T08:46:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "李 \"적대적M&A 막는 규제 전수 조사하라\"",
+      "summary": "이재명 대통령이 13일 \"인수·합병(M&A)이 쉽게 많이 될 수 있게 해야 시장이 정상화된다\"며 M&A를 가로막는 규제와 관련해 전수조사를 실시하라고 지시했다. 이 대통령은 과도하..",
+      "link": "https://www.mk.co.kr/news/stock/12208282",
+      "publishedAt": "2026-11-13T08:42:50.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "반나절만에 돌아선 외국인 [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111357911",
+      "publishedAt": "2026-11-13T08:34:25.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "\"이차전지·SW가 내년 유망株\"",
+      "summary": "2차전지와 소프트웨어 분야가 향후 주식시장에서 주목해야 할 업종이 될 것이라는 분석이 나왔다. 미국·유럽에서의 전망이 긍정적이고, 기업들의 인공지능(AI) 활용이 본격화될 것이라..",
+      "link": "https://www.mk.co.kr/news/stock/12208258",
+      "publishedAt": "2026-11-13T08:31:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "\"난 욕 먹더라도 파이 키우는 쪽 … M&A 활성화해야 주주 혜택\"",
+      "summary": "\"표정들이 너무 엄숙하십니다. 주가가 하락 국면이라 그렇습니까.\" 13일 서울 여의도 한국거래소에서 열린 자본시장 정책간담회는 이재명 대통령의 뼈 있는 농담으로 시작됐다. 이 대통..",
+      "link": "https://www.mk.co.kr/news/stock/12208256",
+      "publishedAt": "2026-11-13T08:31:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "국민연금, 3분기에 가장 많이 산 건 샌디스크",
+      "summary": "메모리 반도체주가 큰 폭의 조정을 받은 지난 3분기에 '큰손' 국민연금은 과감히 매수한 것으로 드러났다. 12일(현지시간) 미국 증권거래위원회(SEC)가 공개한 13F 보고서에 따..",
+      "link": "https://www.mk.co.kr/news/stock/12208257",
+      "publishedAt": "2026-11-13T08:31:58.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -2978,246 +3218,6 @@
       "summary": "AI 공격 심화에 호황인 이 종목국내 굴지의 에너지 기업에 다니는 김 부장(47)은 미국 사이버 보안 주식 ‘크라우드스트라이크’에 5년 적립식 투자 중이다. 자신의 투자 원칙을 지..",
       "link": "https://www.mk.co.kr/news/stock/12200838",
       "publishedAt": "2026-11-06T11:05:23.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'반도체 부품 제조' 동원파츠 코스닥 신규상장…10일부터 거래",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 한국거래소는 동원파츠의 코스닥 시장 신규상장을 승인했다고 6일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20261106175700008",
-      "publishedAt": "2026-11-06T09:52:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "중화권 증시도 ‘블루쓰나미 충격’…외국인도 순매도",
-      "summary": "대만 증시가 반도체주 급락 여파로 6일 4% 넘게 하락하며 4만선 아래로 밀렸다. 미국발 기술주 투자심리 위축이 중화권 증시 전반으로 번진 가운데 외국인 자금 이탈도 이어지는 모습..",
-      "link": "https://www.mk.co.kr/news/stock/12200777",
-      "publishedAt": "2026-11-06T09:47:48.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "국내 3대 재정학회 “반도체 호황에 기댄 확장재정 위험…미래대응기금 재검토해야”",
-      "summary": "“미래기금 없으면 국가채무 최대 83조↓” “94조 사용처도 불투명…위험 통제해야” 국회서 통제·심의 강화 필요성도 제기국내 재정학계 전문가들이 정부의 내년도 예산안과 미래대응기금..",
-      "link": "https://www.mk.co.kr/news/economy/12200768",
-      "publishedAt": "2026-11-06T09:31:10.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "도드람, 8일까지 서울 북촌 휘겸재서 '난로회' 팝업스토어",
-      "summary": "(서울=연합뉴스) 홍국기 기자 = 도드람양돈농협은 6일부터 오는 8일까지 서울 북촌 휘겸재에서 &apos;도드람 난로회&apos; 팝업스토어를 운영한다.",
-      "link": "https://www.yna.co.kr/view/AKR20261106173700030",
-      "publishedAt": "2026-11-06T09:24:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "고팍스, 해킹 예고 협박 메일에 출금 차단",
-      "summary": "(서울=연합뉴스) 유동현 기자 = 가상자산 거래소 고팍스가 6일 해킹 협박 메일을 받고 이용자 자산 보호를 위한 긴급 조치에 나섰다.",
-      "link": "https://www.yna.co.kr/view/AKR20261106174700002",
-      "publishedAt": "2026-11-06T09:24:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[인사] 공정거래위원회",
-      "summary": "◇ 부이사관 승진",
-      "link": "https://www.yna.co.kr/view/AKR20261106172800002",
-      "publishedAt": "2026-11-06T09:14:14.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국세청장 후보자 \"국민 기대 부응하는 공정세정 구현\"",
-      "summary": "(세종=연합뉴스) 송정은 기자 = 안덕수 신임 국세청장 후보자는 6일 민생 안정, 경제회복 지원, 공정세정을 주요 과제로 손꼽았다.",
-      "link": "https://www.yna.co.kr/view/AKR20261106172500002",
-      "publishedAt": "2026-11-06T09:13:15.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "농식품부, 규제합리화 과제 선정…농지조사 후속 특별법 추진",
-      "summary": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 6일 송미령 장관 주재로 제4차 농식품 규제 합리화 전략회의를 열고 농식품 업계와 민간 전문가...",
-      "link": "https://www.yna.co.kr/view/AKR20261106171100030",
-      "publishedAt": "2026-11-06T09:07:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"한국 소비자 차별대우 안돼\"…공정위, 해외보다 가격 비싸면 제재",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615881",
-      "publishedAt": "2026-11-06T09:03:25.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“3억 넣었는데 반년도 안돼 3천만원 됐습니다”…피눈물 나는 레버리지 개미들",
-      "summary": "삼전닉스 레버리지 90% 넘게 폭락 ‘하락베팅’ 인버스, 7월 말來 최고치 6일 삼전 6%대·하닉 10%대 떨어져국내 반도체 대형주가 이틀 연속 급락하면서 삼성전자와 SK하이닉스의..",
-      "link": "https://www.mk.co.kr/news/stock/12200743",
-      "publishedAt": "2026-11-06T09:02:23.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "하루 만에 68% 폭등한 '공포지수'…기관까지 '백기' 들었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615991",
-      "publishedAt": "2026-11-06T08:59:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "유한종 삼성전자 재경팀 부사장, 국제회계기준委 GPF위원 선임",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615591",
-      "publishedAt": "2026-11-06T08:59:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "의식주컴퍼니, 목진건 前대표 영입",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615601",
-      "publishedAt": "2026-11-06T08:58:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "반등 베팅 하루 만에…레버리지 개미들 '날벼락'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615971",
-      "publishedAt": "2026-11-06T08:58:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"장기계약도 안심 못해\" 비상 걸린 삼전닉스",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615981",
-      "publishedAt": "2026-11-06T08:57:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "티씨머티리얼즈, 100억원 규모 유상증자 실시",
-      "summary": "코스닥 상장사 티씨머티리얼즈가 99억 9999만 6864원 규모의 제3자배정증자를 실시한다고 2026년 11월 6일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 260..",
-      "link": "https://www.mk.co.kr/news/stock/12200740",
-      "publishedAt": "2026-11-06T08:56:14.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "씨이랩, 100억 원 규모 전환사채 발행",
-      "summary": "코스닥 상장사 씨이랩이 제1회 100억 원 규모의 전환사채를 발행한다고 2026년 11월 6일 공시했다. 전환가액은 8106원이며, 전환 청구 기간은 2027년 11월 16일부터 ..",
-      "link": "https://www.mk.co.kr/news/stock/12200739",
-      "publishedAt": "2026-11-06T08:56:14.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모",
-      "summary": "삼성전자 주가가 최근 미국 중간선거 이후 급락이 이어진 가운데 노태문 대표이사 겸 DX 부문장(사장)이 자사주 3000주를 매입했다. 6일 금융감독원 전자공시시스템에 따르면 노 사..",
-      "link": "https://www.mk.co.kr/news/business/12200736",
-      "publishedAt": "2026-11-06T08:51:25.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“나 떨고 있니”…월가 ‘공포지수’ 8개월 만에 최고",
-      "summary": "헤지펀드 손실에 추가 매도 우려 ‘AI 천재 레오폴드’ 또 청산 위기미국 증시에서 투자자들의 공포가 극에 달하고 있다. 인공지능(AI) 관련주가 급락한 영향이다. 주가 하락에 놀란..",
-      "link": "https://www.mk.co.kr/news/stock/12200729",
-      "publishedAt": "2026-11-06T08:49:34.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "주가조작 조사 지휘 … 탈세 칼 빼든다",
-      "summary": "제28대 국세청장 후보자로 안덕수 서울지방국세청장(55)이 지명됐다. 서울청 조사4국장과 국세청 조사국장 등을 거친 '조사통'으로, 서울청장 취임 4개월 만에 국세청장 후보자로 발..",
-      "link": "https://www.mk.co.kr/news/economy/12200728",
-      "publishedAt": "2026-11-06T08:48:34.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'5천피' 깨졌다 간신히 회복…데이터센터 쇼크에 'AI 패닉셀'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615791",
-      "publishedAt": "2026-11-06T08:43:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"모든 것이 AI인 시대, 생존의 조건은 인재\"…교수·CEO도 열공",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615191",
-      "publishedAt": "2026-11-06T08:40:48.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "혼자 사는 어르신, 보험료 부담 4년새 60% 증가",
-      "summary": "60세 이상 고령 1인 가구의 보험료 지출이 4년 새 60% 넘게 증가한 것으로 나타났다. 같은 기간 소득 증가율의 2.7배에 달하는 수준이다. 보험료를 납부하는 가구가 늘어난 데..",
-      "link": "https://www.mk.co.kr/news/economy/12200715",
-      "publishedAt": "2026-11-06T08:40:29.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[포토] 우리금융, MSCI와 기후금융 논의",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12200714",
-      "publishedAt": "2026-11-06T08:40:29.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "금융사 부실 막을 '자금 수혈' 안전망 만든다",
-      "summary": "금융당국이 금융회사 부실을 사전에 방지하기 위한 선제적 자금지원 제도인 '금융안정계정' 도입에 속도를 내고 있다. 과거 입법 과정에서 쟁점으로 부각됐던 금융업권 간 손실 전가와 국..",
-      "link": "https://www.mk.co.kr/news/economy/12200712",
-      "publishedAt": "2026-11-06T08:40:28.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "'대한민국 나눔국민대상'…신한금융, 대통령 표창",
-      "summary": "신한금융그룹이 지난 5일 열린 '2026 대한민국 나눔국민대상' 시상식에서 대통령표창을 수상했다고 6일 밝혔다. 대한민국 나눔국민대상은 나눔문화 확산에 이바지한 개인과 단체를 발굴..",
-      "link": "https://www.mk.co.kr/news/economy/12200713",
-      "publishedAt": "2026-11-06T08:40:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[단독] \"벽 타고 올라간 로봇, 상품 꺼내 눈앞에 척\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615221",
-      "publishedAt": "2026-11-06T08:36:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"알아서 굴려준다더니\"…믿고 맡긴 '국민 노후상품'의 배신",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615091",
-      "publishedAt": "2026-11-06T08:31:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "이 와중에 '매일 오르네'…블루웨이브 올라 타고 '훨훨'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615101",
-      "publishedAt": "2026-11-06T08:30:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "반도체 피난처도 휘청…힘빠진 은행·자동차주",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110615111",
-      "publishedAt": "2026-11-06T08:29:29.000Z"
     }
   ]
 }
