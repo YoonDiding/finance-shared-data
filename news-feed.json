@@ -1,8 +1,152 @@
 {
-  "updatedAt": "2026-11-14T16:14:58.045Z",
+  "updatedAt": "2026-11-15T00:33:32.694Z",
   "historyDays": 7,
-  "count": 390,
+  "count": 392,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한-투르크메니스탄 세관상호지원협정 발효…정보교환 협력",
+      "summary": "(서울=연합뉴스) 민선희 기자 = 한국과 투르크메니스탄 간 세관상호지원협정이 15일 발효됐다고 외교부가 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261115014200504",
+      "publishedAt": "2026-11-15T00:25:56.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "무보, 슬로바키아 수출입은행과 원전·에너지 금융협력 강화",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 한국무역보험공사는 지난 13일 서울 종로구 본사에서 슬로바키아 수출입은행과 원자력 발전소를 비롯한 전력·유틸리...",
+      "link": "https://www.yna.co.kr/view/AKR20261115013600003",
+      "publishedAt": "2026-11-15T00:25:24.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한-투르크메니스탄 세관상호지원협정 발효…무역·통관 협력",
+      "summary": "(세종=연합뉴스) 안채원 기자 = 한국과 투르크메니스탄 정부의 세관상호지원협정이 15일 발효된다고 관세청이 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261115013300002",
+      "publishedAt": "2026-11-15T00:16:38.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "중앙그룹 ‘회생 4개사’ 설명회서 매각 윤곽…휘닉스중앙은 본입찰 [M&A복덕방]",
+      "summary": "다음주 인수합병(M&A) 시장의 시선은 중앙그룹 매물로 쏠릴 전망이다. 회생절차를 밟고 있는 중앙그룹 4개사가 조사보고서 제출을 마치고 관계인설명회 준비에 들어갔다. 회생 영향권 ..",
+      "link": "https://www.mk.co.kr/news/stock/12209084",
+      "publishedAt": "2026-11-15T00:14:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“신용대출, 빨리 철회해도 연 12% 금리”…시중은행, 이자로 18억 벌었다",
+      "summary": "신용대출을 받았다가 빠른 시일 안에 철회해도 많게는 연 12% 금리가 부과되는 것으로 나타났다. 주요 시중은행이 청약 철회된 대출을 통해 벌어들인 이자는 최근 5년간 약 18억원에..",
+      "link": "https://www.mk.co.kr/news/economy/12209081",
+      "publishedAt": "2026-11-15T00:14:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "담양 전원주택단지 주차장 부지에 음식점 입점…주민 반발",
+      "summary": "(담양=연합뉴스) 박철홍 기자 = 전남광주통합특별시 담양군의 한 전원주택단지 주차장 용지에 음식점 입점이 추진되면서 인근 주민들이 주거환경 악화...",
+      "link": "https://www.yna.co.kr/view/AKR20261113138100054",
+      "publishedAt": "2026-11-15T00:05:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[게시판] 우리은행, 자원순환 캠페인으로 폐전자제품 85t 수거",
+      "summary": "▲ 우리은행은 10월 29일부터 지난 13일까지 진행한 임직원 자원순환 캠페인 &apos;스마트 펀(Smart Fun)&apos;을 통해 폐전기·전자제품 약 85...",
+      "link": "https://www.yna.co.kr/view/AKR20261113160400002",
+      "publishedAt": "2026-11-15T00:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국민은행 \"영업점 방문 없이 상속 서류 접수·예금 지급\"",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 모바일로 상속 관련 서류 제출부터 예금 지급까지 처리할 수 있는 &apos;KB스타뱅킹 비대면 상속 서비...",
+      "link": "https://www.yna.co.kr/view/AKR20261114042900002",
+      "publishedAt": "2026-11-15T00:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "스페이스X, 우주선 본체 사상 첫 회수…완전재사용 로켓 예고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111568607",
+      "publishedAt": "2026-11-14T23:45:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "AI 기술주, 언제 사야 하나 [조윤남의 사이클투자]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611107544i",
+      "publishedAt": "2026-11-14T23:35:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "변동성 장세 지속…'젠슨 황 퇴진' 엔비디아 실적에 쏠리는 눈 [주간전망]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111355876",
+      "publishedAt": "2026-11-14T23:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"커피만 파는 줄 알았는데\"…600만개 불티나게 팔린 메뉴 [장서우의 하입:hype]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611156682i",
+      "publishedAt": "2026-11-14T23:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "자녀 둘 아빠는 16만원 번다…바뀌는 연말정산 절세법",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611135532i",
+      "publishedAt": "2026-11-14T23:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"주식 사려고 빚 냈어요\"…7조 폭풍매수 나선 '두 종목'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111567997",
+      "publishedAt": "2026-11-14T22:54:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "엔비디아 투자자, 젠슨황 복귀 요구 서한…\"AI산업 후퇴 우려\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111567957",
+      "publishedAt": "2026-11-14T22:44:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"주가 빠질 때 사야\" 빚투 나선 개미들…마통 44조 넘었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111567887",
+      "publishedAt": "2026-11-14T22:31:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"어릴 때 보던 만화인데\"…2030 예약 폭주한 뜻밖의 이유 [박수림의 요즘 여기]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611135618g",
+      "publishedAt": "2026-11-14T22:30:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "AI는 멈추지 않는다 … 헤지펀드 패닉이 만들어 준 기회",
+      "summary": "블루쓰나미의 충격, 오히려 좋아!블루웨이브가 아니라 블루쓰나미였습니다. 이를 미리 눈치채기라도 한 듯 필라델피아 반도체 지수는 10월 28일부터 11월 5일까지 무려 22%나 하락..",
+      "link": "https://www.mk.co.kr/news/stock/12208238",
+      "publishedAt": "2026-11-14T20:10:00.000Z"
+    },
     {
       "source": "한국경제",
       "category": "증권",
@@ -2994,134 +3138,6 @@
       "summary": "(구미=연합뉴스) 김세린 기자 = 지난 6일 경북 구미시에서 열린 &apos;2026 구미라면축제&apos;. 농심[004370] 구미공장에서 당일 생산한 라면을...",
       "link": "https://www.yna.co.kr/view/AKR20261107030300030",
       "publishedAt": "2026-11-08T03:00:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'군포 복합물류터미널 이전 촉구' 범시민추진위 출범",
-      "summary": "(군포=연합뉴스) 이우성 기자 = 1990년대 초 경기 군포시에 들어선 뒤 도심 확장으로 한복판에 자리 잡게 된 군포복합물류터미널의 이전을 요구...",
-      "link": "https://www.yna.co.kr/view/AKR20261106145700061",
-      "publishedAt": "2026-11-08T00:00:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'232억 펀드 불완전판매' 증권사 임원 감봉…법원 \"과도한 제재\"",
-      "summary": "(서울=연합뉴스) 이영섭 기자 = 펀드 불완전판매에 대한 감독 책임으로 감봉 처분을 받은 삼성증권 전 임원이 소송을 통해 구제받았다.",
-      "link": "https://www.yna.co.kr/view/AKR20261106182900004",
-      "publishedAt": "2026-11-08T00:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[게시판] 우리은행, 국민대 산학협력단과 대한천일은행 학술대회",
-      "summary": "▲ 우리은행은 6일 서울 중구 본점에서 국민대 산학협력단과 &apos;대한천일은행의 민족자본 형성과 회계장부의 학술 가치 연구&apos;를 주제로 학술대회를 했다...",
-      "link": "https://www.yna.co.kr/view/AKR20261107048800002",
-      "publishedAt": "2026-11-08T00:00:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "무보, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원",
-      "summary": "(서울=연합뉴스) 장보인 기자 = 한국무역보험공사는 중소·중견기업을 글로벌 수출기업으로 육성하는 지원 프로그램 &apos;수출성장 플래닛&apos;의 회원사 21...",
-      "link": "https://www.yna.co.kr/view/AKR20261108012300003",
-      "publishedAt": "2026-11-07T23:54:48.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "경기 아파트값 상승률 8주째 서울 상회…주도지역 서울→경기",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 서울 아파트 매매가격 상승세가 강남권 약세 영향으로 둔화를 이어가는 동안 경기지역이 남부권 중심으로 강세를 지...",
-      "link": "https://www.yna.co.kr/view/AKR20261108006100003",
-      "publishedAt": "2026-11-07T23:47:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "세븐일레븐, 소용량 '원핸드 간편식' 확대…'스몰 밀' 소비 겨냥",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 코리아세븐이 운영하는 편의점 세븐일레븐은 한 손에 들고 먹을 수 있는 소용량 &apos;원핸드 간편식&apos; 제품군을 확대했...",
-      "link": "https://www.yna.co.kr/view/AKR20261108011100030",
-      "publishedAt": "2026-11-07T23:35:48.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“미국 물가부터 옵션 만기까지”…다음 주 증시 변수, 미리 대비하려면",
-      "summary": "미국 CPI 영향 ‘국채금리·환율’ 주목 코어위브 실적 발표…AI 투자 시험대 코스피200 옵션 만기, 수급 변수 될까미국 중간선거 이후 인공지능(AI) 투자 위축 우려에 급락한 ..",
-      "link": "https://www.mk.co.kr/news/stock/12201573",
-      "publishedAt": "2026-11-07T23:08:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'블루 웨이브 쇼크'에 휘청인 코스피…반등 열쇠는 [주간전망]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110609346",
-      "publishedAt": "2026-11-07T23:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "금융자산 35억인데…60대 부부, 세금 줄이고 월 1200만원 쓰는 법",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611058584i",
-      "publishedAt": "2026-11-07T23:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "고전 명작 표지까지…다이소 '미니키링북' 출시 전부터 관심",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611060500i",
-      "publishedAt": "2026-11-07T22:59:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "영화관은 안 가는데…7만원짜리 '나만의 극장' 찾는 이유 [박수림의 요즘 여기]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611060145g",
-      "publishedAt": "2026-11-07T22:30:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "출석 확인부터 통신장애까지, 전자주주총회 실무 점검사항 [디엘지 기업법무 핵심노트]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611033040i",
-      "publishedAt": "2026-11-07T22:00:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"떡볶이 먹고 산책까지\"…노포 분식집, 동네 관광 코스로 뜬다 [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611069903i",
-      "publishedAt": "2026-11-07T22:00:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“주식 판 돈, 2028년부터 다음날 찾는다는데”…개미들 주의할 ‘이것’",
-      "summary": "54년 만에 주식 결제주기 이틀서 하루로 단축 미수거래 대금도 하루 빨리 내야…반대매매 주의주식을 팔고도 이틀을 기다려야 돈을 찾을 수 있었던 불편이 이르면 2028년부터 사라진다..",
-      "link": "https://www.mk.co.kr/news/stock/12201558",
-      "publishedAt": "2026-11-07T21:13:56.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"집에 있으면 돈 아끼는 줄 알았는데\"…'소파 경제'의 함정",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611072412H",
-      "publishedAt": "2026-11-07T21:00:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "매월 56만원 대출이자 vs 56만원 ‘따박따박’ 저축 … 5년 후 자산 차이는?",
-      "summary": "대출이자 착시와 상환 방식대출은 자본주의 사회에서 레버리지를 활용해 자산을 형성하거나 일시적인 유동성 위기를 넘길 수 있는 유용한 금융 도구입니다. 그러나 대출은 설탕이나 담배처럼..",
-      "link": "https://www.mk.co.kr/news/economy/12200763",
-      "publishedAt": "2026-11-07T20:30:00.000Z"
     }
   ]
 }
