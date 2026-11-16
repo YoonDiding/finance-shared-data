@@ -1,8 +1,232 @@
 {
-  "updatedAt": "2026-11-15T10:12:28.116Z",
+  "updatedAt": "2026-11-16T00:33:14.181Z",
   "historyDays": 7,
-  "count": 391,
+  "count": 385,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "코스피, 외국인·기관 매도에 상승 출발 후 보합권 등락",
+      "summary": "코스피가 상승 출발한 후 장 초반 보합권 등락을 거듭하고 있다. 16일 오전 9시9분 현재 코스피는 전일 대비 19.72포인트(0.37%) 오른 5310.25를 기록하고 있다. 이..",
+      "link": "https://www.mk.co.kr/news/stock/12209648",
+      "publishedAt": "2026-11-16T00:27:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "서진시스템, 3분기 매출 5621억… 연간 최대 매출 조기 경신",
+      "summary": "서진시스템이 3대 핵심 사업의 고른 성장에 힘입어 3분기 최대 실적을 달성했다. 비핵심 사업 정리에 따른 일회성 손실에도 불구하고 주력 사업 중심의 체질 개선을 이뤄냈다는 평가다...",
+      "link": "https://www.mk.co.kr/news/stock/12209647",
+      "publishedAt": "2026-11-16T00:27:31.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "빽다방, 중국 매장 5개로 확대…내년 12개 추가 출점 추진",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 더본코리아[475560]의 빽다방은 중국 상하이에 새 매장을 열어 현지 매장이 모두 5개로 늘었다고 16일 밝...",
+      "link": "https://www.yna.co.kr/view/AKR20261116023300030",
+      "publishedAt": "2026-11-16T00:26:31.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "BMW 코리아, 5세대 완전변경 모델 '더 뉴 BMW X5' 사전예약",
+      "summary": "(서울=연합뉴스) 장하나 기자 = BMW 코리아는 다음달 3일까지 BMW의 대표 프리미엄 스포츠액티비티차량(SAV) &apos;더 뉴 BMW X5&apos;의 사...",
+      "link": "https://www.yna.co.kr/view/AKR20261116036200003",
+      "publishedAt": "2026-11-16T00:25:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "축사 분뇨 처리도 알아서…두산밥캣, 건설장비 자율작업 실증",
+      "summary": "(서울=연합뉴스) 장하나 기자 = 두산밥캣은 인공지능(AI) 설루션 기업 마음AI와 추진한 건설장비 자율작업 기술의 현장 실증에 성공했다고 16...",
+      "link": "https://www.yna.co.kr/view/AKR20261116032600003",
+      "publishedAt": "2026-11-16T00:23:14.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[특징주] 삼성전자, 보합권서 등락…하이닉스, 1%대 하락",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 삼성전자[005930]와 SK하이닉스[000660]가 16일 장 초반 각각 0.2%와 1.5%의 낙폭을 보인다...",
+      "link": "https://www.yna.co.kr/view/AKR20261116034300008",
+      "publishedAt": "2026-11-16T00:22:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[MK 골든크로스 돌파종목 : 로지시스(067730) & 유니퀘스트(077500)]",
+      "summary": "안녕하세요. 국내 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’ 입니다. MK시그널이 오늘 분석한 핫 이슈 골든크로스 종목은 로지시스 & 유니퀘스트 입니다. - 로지시스(0..",
+      "link": "https://www.mk.co.kr/news/stock/12209639",
+      "publishedAt": "2026-11-16T00:19:24.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "10월 미국행 해상운임 상승…EU·중동행은 하락",
+      "summary": "(세종=연합뉴스) 안채원 기자 = 지난달 미국으로 향하는 해상 화물 운임이 일제히 상승했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261116030800002",
+      "publishedAt": "2026-11-16T00:17:13.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "맘스터치, 우즈베키스탄에 첫 매장…중앙아시아 시장 공략",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 맘스터치는 우즈베키스탄 수도 타슈켄트에 첫 매장을 열고 중앙아시아 시장 공략에 나선다고 16일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261116020100030",
+      "publishedAt": "2026-11-16T00:14:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[MK시그널] 고영, AI 반도체 검사 장비와 의료용 로봇의 시너지 기대감 등에 주가 상승률 21.48% 기록",
+      "summary": "11월 16일 고영(098460)이 상승 중이다. 전 거래일 고영 주가는 종가기준 25,550원 상승으로 마감했다. 현재 25,700원으로 (9시 7분 기준) 전일 종가 대비 0...",
+      "link": "https://www.mk.co.kr/news/stock/12209607",
+      "publishedAt": "2026-11-16T00:13:52.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "한투운용 ACE 美대표지수 채권혼합형 ETF 2종, 올해 자금유입 1조 돌파",
+      "summary": "미국 S&P500·나스닥100한국투자신탁운용은 미국 대표지수 채권혼합형 상장지수펀드(ETF) 2종으로 올해 유입된 자금이 1조원을 돌파했다고 16일 밝혔다. ETF 체크에 따르면 ..",
+      "link": "https://www.mk.co.kr/news/stock/12209606",
+      "publishedAt": "2026-11-16T00:10:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "에이프리카 ‘치타’, KT클라우드 마켓플레이스 입점…AI 플랫폼 공급 확대",
+      "summary": "브레인즈컴퍼니의 자회사 에이프리카는 AI 개발·운영 플랫폼 ‘치타(Cheetah)’를 KT클라우드의 기업용 및 공공용 마켓플레이스에 동시 입점시켰다고 16일 밝혔다. 이번 입점을 ..",
+      "link": "https://www.mk.co.kr/news/stock/12209597",
+      "publishedAt": "2026-11-15T23:59:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "AI 투자는 55% 늘었는데 나머지는 3%…美 성장의 두 얼굴",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611168084i",
+      "publishedAt": "2026-11-15T23:31:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "파라다이스, 2년 연속 ESG 등급 상승…통합 A등급 달성",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611168007g",
+      "publishedAt": "2026-11-15T23:23:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "상하이 홀린 백종원 커피…하루 천잔 팔린 '이 메뉴'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611167965g",
+      "publishedAt": "2026-11-15T23:23:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성SDI 해냈다…미국서 수조원대 LFP 배터리 공략 계약 체결",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111680477",
+      "publishedAt": "2026-11-15T23:22:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "“큰 차는 싫다” 美서 일본 경트럭 인기…뉴욕선 합법화 운동 확산",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611168041i",
+      "publishedAt": "2026-11-15T23:18:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 증시 자금 이동 본격화…기술주 지고 방어주 뜬다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611168017i",
+      "publishedAt": "2026-11-15T23:14:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼성전자, 脫엔비디아 시대 최대 수혜주\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111679816",
+      "publishedAt": "2026-11-15T23:03:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[단독] 과세관청, 서학개미 이의제기 첫 인정…美 커버드콜 분배금 환급 잇따르나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611167754i",
+      "publishedAt": "2026-11-15T22:48:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"신세계, 4분기 백화점·면세 둔화…목표가↓\"-유안타",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111679376",
+      "publishedAt": "2026-11-15T22:45:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "반도체 소부장 빛났다…일주일새 32% 불기둥",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611146643i",
+      "publishedAt": "2026-11-15T22:40:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼성전자, '연산하는 메모리'가 주가 재평가 열쇠\"-LS",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026111679306",
+      "publishedAt": "2026-11-15T22:36:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "치솟는 금리, 물가 속 엔비디아 실적 발표…빅위크의 시작 [오늘 아침 당신이 알아야 할 7가지]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611157717i",
+      "publishedAt": "2026-11-15T22:35:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "매경이 전하는 세상의 지식 (매-세-지, 11월 16일)",
+      "summary": "1. 한국과 일본의 도심 개발이 속도 면에서 격차가 벌어지고 있습니다. 일본은 도쿄의 시나가와 차량기지에 첨단 복합단지인 ‘다카나와 게이트웨이 시티’를 조성했습니다. 개발 구상이 ..",
+      "link": "https://www.mk.co.kr/news/economy/12209421",
+      "publishedAt": "2026-11-15T22:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "반도체는 호남으로, 자율차는 광주로…30일부터 도시단위 실증시험",
+      "summary": "국토부·현대차, 30일 첫 운행 도시단위 자율주행 실증 본격화국내 최초 도시 단위 자율주행 실증사업이 오는 30일 전남광주에서 시작된다. 차량 개조와 임시운행허가가 계획대로 진행되..",
+      "link": "https://www.mk.co.kr/news/economy/12209545",
+      "publishedAt": "2026-11-15T21:04:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“사적연금 1500만원 넘으면 세금폭탄?” … ‘진실’을 알려드립니다",
+      "summary": "평생 성실하게 연금을 준비한 사람이 정작 연금을 받을 때 세금 때문에 낭패를 보는 경우가 있다. 연금을 모으고 불리는 공부만 했지, 연금을 수령하는 공부는 안 했기 때문이다. 58..",
+      "link": "https://www.mk.co.kr/news/economy/12209263",
+      "publishedAt": "2026-11-15T20:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“저점매수 지금 안하면 언제 해”…개미들, 마통 끌어다 주식 베팅했다",
+      "summary": "5대 은행 가계신용대출 이달 열흘 새 8531억원 ‘쑥’ 10월 한 달 증가분 넘어서은행 신용대출이 두 달 연속 증가했다. 특히 이달 들어 9영업일 만에 지난달 월간 증가액을 넘어..",
+      "link": "https://www.mk.co.kr/news/economy/12209530",
+      "publishedAt": "2026-11-15T13:03:46.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -2858,278 +3082,6 @@
       "summary": "알테오젠이 미국의 약가협상 규제 강화와 유럽 특허분쟁이라는 '이중 악재'를 맞았다. 핵심 수익원인 키트루다 피하주사(SC) 제품의 판매 확대와 장기 수익성에 대한 의구심이 커지자 ..",
       "link": "https://www.mk.co.kr/news/stock/12202774",
       "publishedAt": "2026-11-09T08:43:09.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“코스피, 작은 호재에도 반등 가능”…SK증권이 꼽은 회복 조건",
-      "summary": "美 반도체 반등에 주초 회복 시도 전망 AI 기업 실적서 투자 실행 일정 확인을SK증권은 9일 국내 증시가 단기간에 크게 하락한 만큼 우려를 덜어줄 작은 계기에도 반등 폭이 커질 ..",
-      "link": "https://www.mk.co.kr/news/stock/12202043",
-      "publishedAt": "2026-11-09T00:18:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[MK시그널] 현대바이오, 핵심 파이프라인 가치 부각 등에 주가 상승률 9.36% 기록",
-      "summary": "11월 9일 현대바이오(048410)가 상승 중이다. 전 거래일 현대바이오 주가는 종가기준 5,670원 상승으로 마감했다. 현재 5,690원으로 (9시 7분 기준) 전일 종가 대비..",
-      "link": "https://www.mk.co.kr/news/stock/12202042",
-      "publishedAt": "2026-11-09T00:18:30.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[MK 골든크로스 돌파종목 : 보령(003850) & 아리바이오랩(261780)]",
-      "summary": "안녕하세요. 국내 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’ 입니다. MK시그널이 오늘 분석한 핫 이슈 골든크로스 종목은 보령 & 아리바이오랩 입니다. - 보령(0038..",
-      "link": "https://www.mk.co.kr/news/stock/12202038",
-      "publishedAt": "2026-11-09T00:15:37.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[테크스냅] 안랩, 하반기 신입·경력 두 자릿수 공채",
-      "summary": "(서울=연합뉴스) 권하영 기자 = 안랩과 자회사 안랩클라우드메이트가 올해 하반기 신입·경력 공개채용을 실시한다.",
-      "link": "https://www.yna.co.kr/view/AKR20261109024700017",
-      "publishedAt": "2026-11-09T00:13:48.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "코스피, 장초반 약보합으로 '5천선' 사수전…코스닥도 하락",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 최근 연일 급락한 코스피가 9일 장 초반 소폭 내리고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20261109029600008",
-      "publishedAt": "2026-11-09T00:06:56.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "삼성운용, 美 단기국채·나스닥100 50대50 투자 ETF 10일 상장",
-      "summary": "(서울=연합뉴스) 강수지 기자 = 삼성자산운용은 9일 미국 단기국채와 나스닥100지수에 각각 50%씩 투자하는 월배당 상장지수펀드(ETF) &apos;K...",
-      "link": "https://www.yna.co.kr/view/AKR20261109027600008",
-      "publishedAt": "2026-11-09T00:06:37.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "삼성물산, 2조3천763억원 규모 목동13단지 재건축 수주",
-      "summary": "(서울=연합뉴스) 오예진 기자 = 삼성물산 건설부문(이하 삼성물산)은 2조3천763억원 규모 서울 양천구 목동13단지 재건축 사업을 수주했다고 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261109028100003",
-      "publishedAt": "2026-11-09T00:03:23.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[속보] 코스피, 하락 출발후 보합권서 등락",
-      "summary": "(",
-      "link": "https://www.yna.co.kr/view/AKR20261109028600008",
-      "publishedAt": "2026-11-09T00:02:43.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "울산시, 10일부터 '트램 1호선 공사' 시민 간담회 개최",
-      "summary": "(울산=연합뉴스) 김근주 기자 = 울산시는 &apos;트램 1호선 대시민 공개간담회&apos;를 연다고 9일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20261108050100057",
-      "publishedAt": "2026-11-09T00:01:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "에스바이오메딕스, 유럽 최대 바이오 행사 참석…‘TED-A9’ 글로벌 파트너링 본격화",
-      "summary": "배아줄기세포 유래 파킨슨병 세포치료제 ‘TED-A9’을 개발 중인 에스바이오메딕스가 독일에서 열리는 유럽 최대 바이오 행사에서 글로벌 파트너링을 본격화한다. 업계에 따르면 9일부터..",
-      "link": "https://www.mk.co.kr/news/stock/12202006",
-      "publishedAt": "2026-11-09T00:01:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[포토] 롤스로이스 \"한 번 충전에 628㎞\"",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12201966",
-      "publishedAt": "2026-11-09T00:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "나노실리칸첨단소재, 탄자니아 ‘MTX 위조방지 라벨’ 현지 생산 거점 구축 가속화",
-      "summary": "나노실리칸첨단소재가 아프리카 시장을 겨냥한 대규모 위조방지 라벨 생산 거점 구축에 속도를 낸다. 기존 수입 의존 방식에서 벗어나 현지 생산 체계를 갖추며 아프리카 전역으로의 판로 ..",
-      "link": "https://www.mk.co.kr/news/stock/12202030",
-      "publishedAt": "2026-11-08T23:56:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'오늘은 오를까'…SK하이닉스 담은 1% 초고수들, 반등에 베팅",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611093822i",
-      "publishedAt": "2026-11-08T23:54:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“주문 늘어도 비용 부담”…한국콜마 목표가 18만→15만원",
-      "summary": "KB증권은 9일 한국콜마에 대해 화장품 수요는 견조하지만 생산능력을 늘리는 과정에서 비용 부담이 커지고 있다며 목표주가를 기존 18만원에서 15만원으로 내렸다. 투자의견은 매수를 ..",
-      "link": "https://www.mk.co.kr/news/stock/12202022",
-      "publishedAt": "2026-11-08T23:40:57.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "금요일 밤 택시비 더 비싸지나…'요일별 할증' 도입 추진",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110937737",
-      "publishedAt": "2026-11-08T23:22:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "젠슨 황 불륜 인정…엔비디아, 중국 스파이 연루 의혹 독립 조사",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611093752i",
-      "publishedAt": "2026-11-08T23:22:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "머스크 밀어주던 텍사스의 변심…민주당, 특혜 중단 예고",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611093766i",
-      "publishedAt": "2026-11-08T23:21:59.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"고점 물렸는데 어쩌죠\"…삼전닉스 개미에 전문가 '현실 조언'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110937207",
-      "publishedAt": "2026-11-08T23:09:17.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'이틀 연속 폭락' 삼전닉스, 프리마켓서 소폭 상승 출발",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110937046",
-      "publishedAt": "2026-11-08T23:08:59.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"개미들 공포에 떠는데\"…'돈나무 언니' 캐시 우드가 웃는 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611093645H",
-      "publishedAt": "2026-11-08T23:06:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[밤 사이 해외뉴스 영상 ]민주당 승리에 'AI 규제 먹구름'… 나스닥 시가총액 하루 새 2.5조 달러 증발",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611093708i",
-      "publishedAt": "2026-11-08T23:05:59.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"롯데쇼핑, 증시 하락發 자산효과 약화 우려…목표가↓\"-키움",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110936236",
-      "publishedAt": "2026-11-08T23:05:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"한강라면·치맥 밀렸나\"…오세훈도 한강서 즐긴 '뜻밖의 메뉴' [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611061379i",
-      "publishedAt": "2026-11-08T23:00:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "증시 급락에 연금계좌도 '악'…\"어떻게 하나\" 전문가 답변은",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611083134i",
-      "publishedAt": "2026-11-08T23:00:17.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'블루웨이브'에 주목받는 한화솔루션…美 태양광 시장 훈풍",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611072243i",
-      "publishedAt": "2026-11-08T23:00:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "매경이 전하는 세상의 지식 (매-세-지, 11월 9일)",
-      "summary": "1. 회사가 직원에게 지원한 건강검진비를 근로자의 소득으로 볼지에 대해 국세청과 삼성그룹 계열사 간 의견이 엇갈리며 법정 다툼으로 번졌습니다. 국세청이 회사가 직원에게 지원한 건강..",
-      "link": "https://www.mk.co.kr/news/economy/12201820",
-      "publishedAt": "2026-11-08T22:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"창구 출금만 됩니다\"…불편해도 돈 숨기는 직장인들",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611082882i",
-      "publishedAt": "2026-11-08T14:24:13.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“번 돈의 절반은 주주에 돌려줍니다”…4대 금융지주, 배당·자사주 소각 역대급",
-      "summary": "KB금융 55%·신한 52% 등 글로벌 메가뱅크 수준 육박 ESG·밸류업 전략 적극 강조 5년새 주주환원율 두배로↑ 자본건전성 약화 우려는 과제KB·신한·하나·우리 등 국내 ..",
-      "link": "https://www.mk.co.kr/news/economy/12201960",
-      "publishedAt": "2026-11-08T13:25:25.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"(종합)",
-      "summary": "(서울=연합뉴스) 박경준 안정훈 황윤기 기자 = 더불어민주당은 8일 종합부동산세(종부세) 기본공제 기준선을 실거주 여부와 관계 없이 주택 가액 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261108048252001",
-      "publishedAt": "2026-11-08T12:24:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“개미들은 이번 월요일만 기다립니다”…일단 美 반도체는 회복 성공",
-      "summary": "저가 매수에 급락 진정세 AMD 11%·인텔 7% 급상승 헤지펀드발 기술주 과매도 일부 해소되며 수급여건 개선 10일 코어위브 실적이 관건블루쓰나미 파장이 잦아들며 6일(현지시간)..",
-      "link": "https://www.mk.co.kr/news/stock/12201946",
-      "publishedAt": "2026-11-08T11:06:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"비자·마스터카드서 수수료 독립\"…한국형 '터치 결제' 나온다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110833851",
-      "publishedAt": "2026-11-08T10:54:30.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"",
-      "summary": "(서울=연합뉴스) 박경준 안정훈 기자 = 더불어민주당은 8일 종합부동산세(종부세) 기본공제 기준선을 실거주 여부와 관계 없이 주택 가액 14억원...",
-      "link": "https://www.yna.co.kr/view/AKR20261108048251001",
-      "publishedAt": "2026-11-08T10:50:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "카뱅·토뱅도 애플페이 … 현대카드 독점 깨진다",
-      "summary": "이르면 이달 애플페이에 카카오뱅크와 토스뱅크 체크카드 등록이 가능해질 전망이다. 그동안 국내에서 애플페이를 이용하려면 현대카드를 발급받아야 했는데 이러한 독점 구조가 3년여 만에 ..",
-      "link": "https://www.mk.co.kr/news/economy/12201942",
-      "publishedAt": "2026-11-08T10:49:14.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'코스피 대탈출' 경고음…8조 던진 외국인 심상치 않다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026110833407",
-      "publishedAt": "2026-11-08T10:23:56.000Z"
     }
   ]
 }
