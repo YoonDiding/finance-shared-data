@@ -1,8 +1,208 @@
 {
-  "updatedAt": "2026-11-21T01:53:20.668Z",
+  "updatedAt": "2026-11-21T10:29:12.776Z",
   "historyDays": 7,
-  "count": 390,
+  "count": 398,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“앤트로픽 상장했는데 내 주식도 오를까”…수혜주 살펴보니",
+      "summary": "SKT·삼성전자·SK하이닉스 수혜 기대 SKT 보유 지분가치 5조원 추산 반도체·IT서비스·전력기기까지 관심미국 인공지능(AI) 기업 앤트로픽이 나스닥에 입성하면서 국내 증시에서도..",
+      "link": "https://www.mk.co.kr/news/stock/12215326",
+      "publishedAt": "2026-11-21T10:12:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "주식만 떨어진 게 아니네…美 AI투자 지연 우려에 고점서 12% 넘게 빠진 ‘이것’",
+      "summary": "인공지능(AI) 투자 열기에 사상 최고가를 썼던 구리가 두 달여 만에 고점 대비 16% 하락했다. 미국에서 데이터센터 건설이 늦어지면 전력 설비에 들어가는 구리 수요도 당초 예상보..",
+      "link": "https://www.mk.co.kr/news/stock/12215325",
+      "publishedAt": "2026-11-21T10:12:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“아픈 사람도 가입된다더니”…보험금 5500만원 주고 유족 고소한 보험사 [어쩌다 세상이]",
+      "summary": "간편보험 가입 후 80일 만에 사망 보험사, 보험금 지급 뒤 유족·설계사 고소 경찰 “묻지 않은 병력, 기망행위 아냐”‘유병자도 가입 가능’, ‘간편하게 가입하세요’. 보험사들은 ..",
+      "link": "https://www.mk.co.kr/news/economy/12215323",
+      "publishedAt": "2026-11-21T10:12:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "잘나가는 한국 보며 “상처에 소금을 뿌리는 듯한 고통”…씁쓸한 일본 왜?",
+      "summary": "韓, 19일 오후 2시 수출 1조弗 기록 세계 10대 교역 시장서 일본 넘어서 韓 우위, 작년 2대 8 → 올해 6대 4 반도체 호황으로 韓수출 대박 영향한국이 독일·미국·중국에 ..",
+      "link": "https://www.mk.co.kr/news/economy/12215318",
+      "publishedAt": "2026-11-21T10:02:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"주말마다 먹어요\"…백종원 '홍콩반점' 제친 '뜻밖의 식당' [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611200868i",
+      "publishedAt": "2026-11-21T09:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "졸업 미루며 대기업만 노리는 청년들…“첫 단추 잘못 꿰면 인생 꼬일 수도”",
+      "summary": "한은 청년고용 부진 정책과제 보고서 300인 이상 기업 계속 다니는 비율 늘지만 신규 입사·중소기업서 대기업 전직은 감소 취업에 그나마 유리한 졸업유예 역대 최대 “노동력 공급 ..",
+      "link": "https://www.mk.co.kr/news/economy/12215302",
+      "publishedAt": "2026-11-21T08:43:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘갤럭시 S펜’ 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
+      "summary": "경영진과 손잡고 주식 공개매수 추진 삼성전자, 인수 후에도 지분 유지할 듯MBK파트너스가 일본의 디지털 펜 제조사 와콤을 1조원대에 인수한다. 21일 니혼게이자이신문(닛케이)에 따..",
+      "link": "https://www.mk.co.kr/news/stock/12215301",
+      "publishedAt": "2026-11-21T08:42:34.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘카카오 vs TPG’ 분쟁 첫 분기점…메가박스중앙은 회생안 마련 ‘총력’ [M&A복덕방]",
+      "summary": "다음주 인수·합병(M&A) 시장에서는 카카오와 TPG의 분쟁이 첫 번째 분기점을 맞는다. 카카오는 오는 30일까지 TPG의 중재 신청에 대한 답변서를 내야 한다. 중앙그룹 계열사 ..",
+      "link": "https://www.mk.co.kr/news/stock/12215299",
+      "publishedAt": "2026-11-21T08:41:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'최악 폭락' 엔비디아 3800조 증발…\"지금 저점\" vs \"더 하락\" [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112114747",
+      "publishedAt": "2026-11-21T08:28:53.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“널 가족이라 생각하지만, 돈은 좀 아껴야겠어”…댕댕이 펫보험 ‘주목’",
+      "summary": "반려동물 평균 치료비 146만원 펫보험 계약 1년 만에 55% 증가 수술비 100만원 중 68만원 지급 보장비율·자기부담금 비교 ‘꼭’지난 설 연휴 반려견 ‘두부’가 발가락 골절로..",
+      "link": "https://www.mk.co.kr/news/economy/12215285",
+      "publishedAt": "2026-11-21T07:42:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "또 '한일 경제 동맹' 강조한 최태원…\"韓日 AI 플랫폼 만들자\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112114457",
+      "publishedAt": "2026-11-21T07:26:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"트럼프보다 시진핑\"…삼전닉스 물린 개미들 반색한 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112114097",
+      "publishedAt": "2026-11-21T06:26:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "주가 급등하면 뭐하나…中 훈풍에 웃는 'K엔터' 서늘한 경고 [이수의 ETF줌인]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112003516",
+      "publishedAt": "2026-11-21T06:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"SK하닉 통째로 산다\"…AI 노린 손정의 '1350조 계획' 폭로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112113827",
+      "publishedAt": "2026-11-21T05:58:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112113727",
+      "publishedAt": "2026-11-21T05:30:47.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "K-베이커리 페스티벌 사흘간 37만명 찾아…\"내년엔 세계 축제로\"",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 대한제과협회는 18일부터 사흘간 종로구 광화문광장에서 열린 &apos;K-베이커리 페스티벌 인(in) 광화문&apos;에 37만...",
+      "link": "https://www.yna.co.kr/view/AKR20261121035200030",
+      "publishedAt": "2026-11-21T05:10:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "꽁치값 30% 뛰어도…'겨울 별미' 과메기 대박 이유 있었다 [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611200765i",
+      "publishedAt": "2026-11-21T05:00:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "한한령 해빙 기대·日 엔터사 인수 추진…하이브 22% ‘쑥’ [이주의 Bull 기둥]",
+      "summary": "한중 FTA 후속협상 타결에 수혜 기대감 日키홀더 인수 추진...BTS·신인 성장 주목 증권사들 내년 영업익 61~99% 증가 전망중국의 한한령(한류 제한령)완화 기대감과 일본 엔..",
+      "link": "https://www.mk.co.kr/news/stock/12215238",
+      "publishedAt": "2026-11-21T04:26:09.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "BNK금융 임직원, 부울경서 해양생태계 보전 '사회공헌의 날'",
+      "summary": "(부산=연합뉴스) 김재홍 기자 = BNK금융그룹 모든 계열사 임직원 650여명은 21일 부산·경남·울산 지역에서 해양생태계 보전을 위한 &apos;BNK...",
+      "link": "https://www.yna.co.kr/view/AKR20261121033200051",
+      "publishedAt": "2026-11-21T04:01:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"20억 스타보다 5000만원 인플루언서\"…모델이 달라진다 [김소연의 얼굴전략]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611200053g",
+      "publishedAt": "2026-11-21T04:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "젠슨 황 사임 뒤 잇단 폭로…이사회엔 거짓 해명, 직원들엔 폭언",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112113257",
+      "publishedAt": "2026-11-21T03:19:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "반토막 났는데 \"주가 더 빠진다\"…하이닉스 결국 터졌다 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112113316",
+      "publishedAt": "2026-11-21T03:08:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "역대 최대 IPO 성공한 앤트로픽…오픈AI도 증시 입성 탄력 받나",
+      "summary": "공모 규모 813억달러 앤트로픽 3분기 매출 168억달러, 전분기比 45% 증가 오픈AI도 매출 급증…적자 줄이고 수익성 입증해야인공지능(AI) 챗봇 클로드 개발사 앤트로픽이 역대..",
+      "link": "https://www.mk.co.kr/news/stock/12215211",
+      "publishedAt": "2026-11-21T02:41:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부고] 이창봉(삼성증권 이사)씨 장모상",
+      "summary": "▲ 김미자 씨 별세, 이주현·이재경 씨 모친상, 이창봉(삼성증권 이사)·최지욱 씨 장모상 = 21일 오전, 이대서울병원장례식장 6호실, 발인 2...",
+      "link": "https://www.yna.co.kr/view/AKR20261121029200008",
+      "publishedAt": "2026-11-21T02:13:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "나스닥 5% 폭락…시험대 오른 국내 증시, 반등 열쇠는 [다음주 주요 변수 미리보기]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611200923i",
+      "publishedAt": "2026-11-21T02:00:08.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -2986,142 +3186,6 @@
       "summary": "지난 3일~9일 일주일 간 분석 젠슨 황 ‘메가 이슈’ 반영 안 돼 美중간선거 검색 824회로 1위 반도체·데이터센터에도 관심 삼전 1598회·하이닉스 930회미국 중간선거 이후 ..",
       "link": "https://www.mk.co.kr/news/stock/12208998",
       "publishedAt": "2026-11-14T10:51:43.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"10년 모은 4억이 와르르\"…'SK하닉 몰빵' 30대 피눈물",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026111465357",
-      "publishedAt": "2026-11-14T09:53:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "잎담배값 4년 새 60% 급등…11년 묶인 담뱃값, 인상론 부상 [프라이스&]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611134194i",
-      "publishedAt": "2026-11-14T09:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"(종합)",
-      "summary": "(서울=연합뉴스) 이상서 기자 = 중소기업중앙회는 11일 노란우산 홈페이지에 대한 외부의 비정상적인 접근과 함께 일부 고객 개인정보의 제3자 조...",
-      "link": "https://www.yna.co.kr/view/AKR20261114037551030",
-      "publishedAt": "2026-11-14T07:37:21.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"",
-      "summary": "(서울=연합뉴스) 이상서 기자 = 중소기업중앙회는 11일 노란우산 홈페이지에 대한 외부의 비정상적인 접근과 함께 일부 고객 개인정보의 제3자 조...",
-      "link": "https://www.yna.co.kr/view/AKR20261114037500030",
-      "publishedAt": "2026-11-14T06:57:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "주유소 기름값 26주 연속 하락…소비자 체감은 '글쎄'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026111464727",
-      "publishedAt": "2026-11-14T06:00:44.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"내 계좌엔 언제 꽂혀요?\"…'121조 잭팟'에 개미들 들썩 [이수의 ETF 줌인]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026111350986",
-      "publishedAt": "2026-11-14T06:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "20년 전 자식에게 준 돈도 토해낸다…무서운 상속법",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611107863i",
-      "publishedAt": "2026-11-14T06:00:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“군인·산모·실직자 ‘주목’…보험료 안 내도 국민연금 가입기간 늘어난다?”",
-      "summary": "내년부터 군 복무 기간 전체 인정 둘째 출산 땐 가입기간 15개월 실업 땐 보험료 75% 지원받아군 복무, 출산, 실직 등 불가피하게 보험료를 납부하기 어려워진 기간도 국민연금 가..",
-      "link": "https://www.mk.co.kr/news/economy/12208863",
-      "publishedAt": "2026-11-14T05:44:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"저렴한 약값에 한국어 상담까지\"…日 비만약 원정처방 마케팅 활발",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026111464627",
-      "publishedAt": "2026-11-14T05:23:12.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"파격가에 의료통역 지원까지\"…비만약 원정처방 마케팅 확산",
-      "summary": "(서울=연합뉴스) 신선미 기자 = &quot;일본 정품 마운자로. 파격적이고 합리적인 가격.&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20261113174400017",
-      "publishedAt": "2026-11-14T04:30:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "주담대 5500만원 늘어나는 ‘마법’…“모기지보험, 알고 계시나요” [알쓸금잡]",
-      "summary": "보험 가입 시 대출한도 확대 총량 따라 막았다 다시 풀어 은행별 실행일·조건 확인을은행권이 그동안 제한했던 모기지보험 가입을 잇달아 재개하고 있다. 모기지보험은 주택담보대출을 ..",
-      "link": "https://www.mk.co.kr/news/economy/12208844",
-      "publishedAt": "2026-11-14T04:02:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"사진 찍고 가세요\"…홍대 나란히 우뚝 선 '핑크 건물' 정체 [김소연의 얼굴전략]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611135496g",
-      "publishedAt": "2026-11-14T04:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"거품은 이미 꺼지기 시작했다\"…이 종목들 구조조정",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611135205i",
-      "publishedAt": "2026-11-14T03:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "두산건설, 3분기 영업이익 271억원…전년 대비 40% 감소",
-      "summary": "(서울=연합뉴스) 오예진 기자 = 두산건설의 3분기 영업이익이 전년 동기 대비 약 40% 감소했다.",
-      "link": "https://www.yna.co.kr/view/AKR20261114029100003",
-      "publishedAt": "2026-11-14T02:44:15.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "모두의창업 또 정보 유출에 참가자 '부글'…\"경위·보상 밝혀야\"",
-      "summary": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부의 &apos;모두의 창업&apos;과 관련한 개인정보 유출 사고가 5개월 만에 또다시 발생하자, 프로젝트 참가자들...",
-      "link": "https://www.yna.co.kr/view/AKR20261114026000030",
-      "publishedAt": "2026-11-14T02:14:56.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“10년 모은 4억이 1억으로…” 반도체 레버리지 투자에 무너진 30대 직장인의 눈물",
-      "summary": "만기 예금까지 더해 4억 원 투입 변동성 장세 속 손절 타이밍 놓쳐10년 동안 직장생활을 하며 힘겹게 모은 4억원을 반도체 주식에 투자했다가 1/4 토막난 30대 직장인의 사연이 ..",
-      "link": "https://www.mk.co.kr/news/stock/12208838",
-      "publishedAt": "2026-11-14T02:05:44.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "성남시, 내달 10일 채용박람회…참여기업 20개사 모집",
-      "summary": "(성남=연합뉴스) 이우성 기자 = 경기 성남시는 다음 달 열리는 &apos;2026 성남시 채용박람회&apos;에 참여할 구인기업 20개사를 오는 25일까지 모집...",
-      "link": "https://www.yna.co.kr/view/AKR20261113134700061",
-      "publishedAt": "2026-11-14T02:00:00.000Z"
     }
   ]
 }
