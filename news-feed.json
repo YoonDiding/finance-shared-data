@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-11-22T10:32:51.913Z",
+  "updatedAt": "2026-11-23T01:15:26.046Z",
   "historyDays": 7,
-  "count": 394,
+  "count": 396,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "고가주택 대출 옥죄자…서울 주담대 증가액 반토막, 지방은 수도권 추월",
+      "summary": "10·15 대책 전후 10개월 비교 수도권 증가액 37조→18조 비수도권은 19조 안팎 유지정부가 지난해 10월 고가주택에 대한 주택담보대출 한도를 대폭 축소한 이후 수도권과 비수..",
+      "link": "https://www.mk.co.kr/news/economy/12215873",
+      "publishedAt": "2026-11-23T01:13:30.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "KB금융 이재근 회장 “리딩뱅크 넘어 ‘리딩플랫폼’ 돼야”",
+      "summary": "데이터·AI 결합해 플랫폼 경쟁력 강화이재근 KB금융그룹 회장이 취임사에서 ‘리딩플랫폼’을 핵심 키워드로 제시했다. 계열사 간 협업을 강화하고 데이터와 인공지능(AI)을 결합해 금..",
+      "link": "https://www.mk.co.kr/news/economy/12215871",
+      "publishedAt": "2026-11-23T01:11:37.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[속보] 3%대로 하락폭 커진 코스닥, 장중 연저점 깨져",
+      "summary": "(",
+      "link": "https://www.yna.co.kr/view/AKR20261123054700008",
+      "publishedAt": "2026-11-23T01:09:56.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[MK시그널] 그리드 다이나믹 홀딩스, 수익률 105.8% 돌파",
+      "summary": "안녕하세요. 미국 주식 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’입니다. 20일, 그리드 다이나믹 홀딩스(GDYN)가 MK시그널에서 보유 신호가 포착돼 수익률 105.8..",
+      "link": "https://www.mk.co.kr/news/stock/12215869",
+      "publishedAt": "2026-11-23T01:09:45.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“미국 주식 폭락, 매력적인 매수기회 생겼다”…골드만삭스의 분석",
+      "summary": "지난 주 미국 주식의 폭락으로 매력적인 매수 기회가 생겼다는 글로벌 투자은행의 분석이 나왔다. 23일 블룸버그통신에 따르면 글로벌 투자은행 골드만삭스의 트레이딩 데스크는 지난주 미..",
+      "link": "https://www.mk.co.kr/news/stock/12215863",
+      "publishedAt": "2026-11-23T01:02:31.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "비레디, 자연스러운 혈색·보습 더한 '트루 톤 립밤' 출시",
+      "summary": "(서울=연합뉴스) 구정모 기자 = 아모레퍼시픽[090430]의 남성 화장품 브랜드 비레디는 입술에 자연스러운 혈색과 보습을 더해주는 신제품 &apos;트...",
+      "link": "https://www.yna.co.kr/view/AKR20261123038100030",
+      "publishedAt": "2026-11-23T01:01:33.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "골드만삭스 \"美 증시 패닉지수 극단 수준…저가 매수 기회\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112334847",
+      "publishedAt": "2026-11-23T01:00:29.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "금융위원장 \"민생침해범죄 의심계좌 거래정지 확대 추진\"",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 이억원 금융위원장이 중대 민생침해범죄 전반으로 의심 계좌 거래정지 확대를 위한 법적 근거를 마련하겠다고 밝혔다...",
+      "link": "https://www.yna.co.kr/view/AKR20261123028000002",
+      "publishedAt": "2026-11-23T01:00:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "은행 마음대로 서비스 중단 안 돼…공정위, 불공정약관 시정요청",
+      "summary": "(세종=연합뉴스) 김수현 기자 = 은행·상호저축은행 약관에 은행이 자의적으로 금융 서비스를 변경하거나 중단·제한할 수 있게 돼 있어 고객의 권익...",
+      "link": "https://www.yna.co.kr/view/AKR20261123036800002",
+      "publishedAt": "2026-11-23T01:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "SM 14% ‘껑충’ JYP 8% ‘쑥’ … 공연허가 전 주가가 먼저 신난 이유는",
+      "summary": "한한령 해빙의 손익계산서올해 1~10월 한국 음반 수출액이 가장 많은 나라는 중국이다. 상반기까지 1위였던 미국을 10월 누적 집계에서 앞질렀다. 그런데 중국 본토에서 한국 가수의..",
+      "link": "https://www.mk.co.kr/news/stock/12215562",
+      "publishedAt": "2026-11-23T01:00:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "광주은행 현금입출금기 3년 새 10% 줄어…입출금액도 ↓",
+      "summary": "(전남광주=연합뉴스) 전승현 기자 = 광주은행 현금자동입출금기(ATM)가 3년 사이에 10%가량이 감소했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261123049600054",
+      "publishedAt": "2026-11-23T00:58:42.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "하이트진로, '테라 싱글몰트·켈리 유기농' 한정판 맥주 출시",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 하이트진로[000080]는 &apos;테라 싱글몰트 에디션&apos;과 &apos;켈리 유기농 에디션&apos; 등 한정판 맥주 2종을 출시한다고...",
+      "link": "https://www.yna.co.kr/view/AKR20261123032800030",
+      "publishedAt": "2026-11-23T00:57:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "화장품주, 중국 큰손 유입 기대감에 강세…뷰티스킨, 21%대 급등",
+      "summary": "한중관계 해빙에 중국향 화장품 사업 매출이 확대될 것이란 기대감이 감돌자 관련주가 급등하고 있다. 23일 오전 9시 40분 현재 뷰티스킨은 전일 대비 410원(21.93%) 오른 ..",
+      "link": "https://www.mk.co.kr/news/stock/12215857",
+      "publishedAt": "2026-11-23T00:51:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "씨엔알리서치, ‘TekMed 2026’서 AI 임상 전략 공개…타이메이와 한·중 협력 확대",
+      "summary": "임상시험수탁기관(CRO) 씨엔알리서치는 중국 상하이에서 열린 ‘TekMed 2026 Summit’에 참가해 인공지능(AI) 기반 글로벌 임상개발 전략을 공유하고 중국 기업 타이메이..",
+      "link": "https://www.mk.co.kr/news/stock/12215852",
+      "publishedAt": "2026-11-23T00:45:28.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“3년간 550만원 아낀다”…오늘부터 실손보험료 부담된다면 ‘이것’ 주목",
+      "summary": "5세대 실손 전환 시 3년간 보험료 50% 할인매월 빠져나가는 비싼 실손의료보험료 때문에 고민이 컸던 가입자라면 오늘부터 시행되는 ‘실손보험 할인제도’를 눈여겨볼 만 하다. 기존 ..",
+      "link": "https://www.mk.co.kr/news/economy/12215850",
+      "publishedAt": "2026-11-23T00:43:29.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "SK하이닉스, 장 초반 다시 110만원 밑으로…미 반도체주 급락 여파",
+      "summary": "SK하이닉스 주가가 23일 장 초반 110만원선 밑에서 거래되고 있다. 미국 반도체주 급락 여파로 개장 전 104만원대까지 밀렸던 주가는 정규장에서 108만원대를 회복했다. 이날 ..",
+      "link": "https://www.mk.co.kr/news/stock/12215849",
+      "publishedAt": "2026-11-23T00:43:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "박종복 차기 은행연합회장 “시대 전환점에서 은행의 새 역할 모색”",
+      "summary": "1979년 입행, 46년간 금융권 몸담아 SC제일은행 10년 이끈 정통 은행인박종복 전 SC제일은행장이 제16대 은행연합회장 최종 후보로 낙점됐다. 박 전 행장은 23일 매일경제와..",
+      "link": "https://www.mk.co.kr/news/economy/12215843",
+      "publishedAt": "2026-11-23T00:34:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "케이엠에프·에이엔에이치스트럭쳐 코스닥 출격, '거래처 리스크' 시험대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611200148i",
+      "publishedAt": "2026-11-23T00:31:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[개장시황] 美 반도체주 폭락에 코스피 4700선으로 후퇴…외국인·기관은 순매수",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611233123i",
+      "publishedAt": "2026-11-23T00:31:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "다 떨어지는데 나 홀로 급등…주가 10% 뛴 '이 종목'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112332796",
+      "publishedAt": "2026-11-23T00:29:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "찬바람 불자 주가 들썩…21% 급등한 '의외의 종목'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112333066",
+      "publishedAt": "2026-11-23T00:27:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "카카오, 카카오모빌리티 상장 갈등에 1.5조원 규모 피소",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112332746",
+      "publishedAt": "2026-11-23T00:21:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"연말 홈파티엔 이 맥주\"…하이트진로 한정판 출시",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611233100g",
+      "publishedAt": "2026-11-23T00:09:46.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[속보] 11월 1∼20일 수출 774억달러, 101.5% 증가…일평균 95.2%↑",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112332227",
+      "publishedAt": "2026-11-23T00:08:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "수술대 오른 전기값 … 지역 차등·최저가 입찰로 바꾼다[김리안의 에네르기파WAR]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611157309i",
+      "publishedAt": "2026-11-23T00:07:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"향수의 맛은 어떨까\"…산타마리아노벨라, 호텔 코스 요리로 변신",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611233163g",
+      "publishedAt": "2026-11-23T00:06:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"지뢰밭 됐는데 누가 오겠냐\"…예약 줄취소에 '비명' [전선의 손익계산서]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611222609H",
+      "publishedAt": "2026-11-22T23:53:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 Fed 쿡 \"금리 인상 늦으면 큰 충격\"…AI발 물가 압박 경고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611233128i",
+      "publishedAt": "2026-11-22T23:50:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "차기 은행연합회장에 박종복 전 SC제일은행장 단독 추천",
+      "summary": "1979년 입행해 46년간 금융권 몸담아 SC제일은행 10년 이끈 정통 은행인박종복 전 SC제일은행장이 제16대 은행연합회장 최종 후보로 낙점됐다. 은행연합회는 23일 회장후보추천..",
+      "link": "https://www.mk.co.kr/news/economy/12215808",
+      "publishedAt": "2026-11-22T23:45:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“국민연금 꼬박꼬박 떼갔는데 내 연금은 0원”…연금 종류 다르면 전액 받아",
+      "summary": "내 연금 선택하면 유족연금 30% 수령 유족연금 택하면 내 연금은 ‘지급정지’ 중복수급권자 4년 새 68%↑…20.8만명평생 국민연금 보험료를 꼬박꼬박 내며 노후를 준비해 온 맞벌..",
+      "link": "https://www.mk.co.kr/news/economy/12215806",
+      "publishedAt": "2026-11-22T23:43:35.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -2930,230 +3170,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202611169644i",
       "publishedAt": "2026-11-16T07:52:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "코스피, 외국인·기관 매도에 상승 출발 후 보합권 등락",
-      "summary": "코스피가 상승 출발한 후 장 초반 보합권 등락을 거듭하고 있다. 16일 오전 9시9분 현재 코스피는 전일 대비 19.72포인트(0.37%) 오른 5310.25를 기록하고 있다. 이..",
-      "link": "https://www.mk.co.kr/news/stock/12209648",
-      "publishedAt": "2026-11-16T00:27:41.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "서진시스템, 3분기 매출 5621억… 연간 최대 매출 조기 경신",
-      "summary": "서진시스템이 3대 핵심 사업의 고른 성장에 힘입어 3분기 최대 실적을 달성했다. 비핵심 사업 정리에 따른 일회성 손실에도 불구하고 주력 사업 중심의 체질 개선을 이뤄냈다는 평가다...",
-      "link": "https://www.mk.co.kr/news/stock/12209647",
-      "publishedAt": "2026-11-16T00:27:31.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "빽다방, 중국 매장 5개로 확대…내년 12개 추가 출점 추진",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 더본코리아[475560]의 빽다방은 중국 상하이에 새 매장을 열어 현지 매장이 모두 5개로 늘었다고 16일 밝...",
-      "link": "https://www.yna.co.kr/view/AKR20261116023300030",
-      "publishedAt": "2026-11-16T00:26:31.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "BMW 코리아, 5세대 완전변경 모델 '더 뉴 BMW X5' 사전예약",
-      "summary": "(서울=연합뉴스) 장하나 기자 = BMW 코리아는 다음달 3일까지 BMW의 대표 프리미엄 스포츠액티비티차량(SAV) &apos;더 뉴 BMW X5&apos;의 사...",
-      "link": "https://www.yna.co.kr/view/AKR20261116036200003",
-      "publishedAt": "2026-11-16T00:25:08.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "축사 분뇨 처리도 알아서…두산밥캣, 건설장비 자율작업 실증",
-      "summary": "(서울=연합뉴스) 장하나 기자 = 두산밥캣은 인공지능(AI) 설루션 기업 마음AI와 추진한 건설장비 자율작업 기술의 현장 실증에 성공했다고 16...",
-      "link": "https://www.yna.co.kr/view/AKR20261116032600003",
-      "publishedAt": "2026-11-16T00:23:14.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[특징주] 삼성전자, 보합권서 등락…하이닉스, 1%대 하락",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 삼성전자[005930]와 SK하이닉스[000660]가 16일 장 초반 각각 0.2%와 1.5%의 낙폭을 보인다...",
-      "link": "https://www.yna.co.kr/view/AKR20261116034300008",
-      "publishedAt": "2026-11-16T00:22:10.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[MK 골든크로스 돌파종목 : 로지시스(067730) & 유니퀘스트(077500)]",
-      "summary": "안녕하세요. 국내 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’ 입니다. MK시그널이 오늘 분석한 핫 이슈 골든크로스 종목은 로지시스 & 유니퀘스트 입니다. - 로지시스(0..",
-      "link": "https://www.mk.co.kr/news/stock/12209639",
-      "publishedAt": "2026-11-16T00:19:24.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "10월 미국행 해상운임 상승…EU·중동행은 하락",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 지난달 미국으로 향하는 해상 화물 운임이 일제히 상승했다.",
-      "link": "https://www.yna.co.kr/view/AKR20261116030800002",
-      "publishedAt": "2026-11-16T00:17:13.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "맘스터치, 우즈베키스탄에 첫 매장…중앙아시아 시장 공략",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 맘스터치는 우즈베키스탄 수도 타슈켄트에 첫 매장을 열고 중앙아시아 시장 공략에 나선다고 16일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20261116020100030",
-      "publishedAt": "2026-11-16T00:14:10.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[MK시그널] 고영, AI 반도체 검사 장비와 의료용 로봇의 시너지 기대감 등에 주가 상승률 21.48% 기록",
-      "summary": "11월 16일 고영(098460)이 상승 중이다. 전 거래일 고영 주가는 종가기준 25,550원 상승으로 마감했다. 현재 25,700원으로 (9시 7분 기준) 전일 종가 대비 0...",
-      "link": "https://www.mk.co.kr/news/stock/12209607",
-      "publishedAt": "2026-11-16T00:13:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "한투운용 ACE 美대표지수 채권혼합형 ETF 2종, 올해 자금유입 1조 돌파",
-      "summary": "미국 S&P500·나스닥100한국투자신탁운용은 미국 대표지수 채권혼합형 상장지수펀드(ETF) 2종으로 올해 유입된 자금이 1조원을 돌파했다고 16일 밝혔다. ETF 체크에 따르면 ..",
-      "link": "https://www.mk.co.kr/news/stock/12209606",
-      "publishedAt": "2026-11-16T00:10:51.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "에이프리카 ‘치타’, KT클라우드 마켓플레이스 입점…AI 플랫폼 공급 확대",
-      "summary": "브레인즈컴퍼니의 자회사 에이프리카는 AI 개발·운영 플랫폼 ‘치타(Cheetah)’를 KT클라우드의 기업용 및 공공용 마켓플레이스에 동시 입점시켰다고 16일 밝혔다. 이번 입점을 ..",
-      "link": "https://www.mk.co.kr/news/stock/12209597",
-      "publishedAt": "2026-11-15T23:59:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "AI 투자는 55% 늘었는데 나머지는 3%…美 성장의 두 얼굴",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611168084i",
-      "publishedAt": "2026-11-15T23:31:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "파라다이스, 2년 연속 ESG 등급 상승…통합 A등급 달성",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611168007g",
-      "publishedAt": "2026-11-15T23:23:17.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "상하이 홀린 백종원 커피…하루 천잔 팔린 '이 메뉴'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611167965g",
-      "publishedAt": "2026-11-15T23:23:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "삼성SDI 해냈다…미국서 수조원대 LFP 배터리 공략 계약 체결",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026111680477",
-      "publishedAt": "2026-11-15T23:22:52.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "“큰 차는 싫다” 美서 일본 경트럭 인기…뉴욕선 합법화 운동 확산",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611168041i",
-      "publishedAt": "2026-11-15T23:18:41.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 증시 자금 이동 본격화…기술주 지고 방어주 뜬다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611168017i",
-      "publishedAt": "2026-11-15T23:14:39.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼성전자, 脫엔비디아 시대 최대 수혜주\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026111679816",
-      "publishedAt": "2026-11-15T23:03:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[단독] 과세관청, 서학개미 이의제기 첫 인정…美 커버드콜 분배금 환급 잇따르나",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611167754i",
-      "publishedAt": "2026-11-15T22:48:49.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"신세계, 4분기 백화점·면세 둔화…목표가↓\"-유안타",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026111679376",
-      "publishedAt": "2026-11-15T22:45:57.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "반도체 소부장 빛났다…일주일새 32% 불기둥",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611146643i",
-      "publishedAt": "2026-11-15T22:40:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼성전자, '연산하는 메모리'가 주가 재평가 열쇠\"-LS",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026111679306",
-      "publishedAt": "2026-11-15T22:36:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "치솟는 금리, 물가 속 엔비디아 실적 발표…빅위크의 시작 [오늘 아침 당신이 알아야 할 7가지]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611157717i",
-      "publishedAt": "2026-11-15T22:35:57.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "매경이 전하는 세상의 지식 (매-세-지, 11월 16일)",
-      "summary": "1. 한국과 일본의 도심 개발이 속도 면에서 격차가 벌어지고 있습니다. 일본은 도쿄의 시나가와 차량기지에 첨단 복합단지인 ‘다카나와 게이트웨이 시티’를 조성했습니다. 개발 구상이 ..",
-      "link": "https://www.mk.co.kr/news/economy/12209421",
-      "publishedAt": "2026-11-15T22:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "반도체는 호남으로, 자율차는 광주로…30일부터 도시단위 실증시험",
-      "summary": "국토부·현대차, 30일 첫 운행 도시단위 자율주행 실증 본격화국내 최초 도시 단위 자율주행 실증사업이 오는 30일 전남광주에서 시작된다. 차량 개조와 임시운행허가가 계획대로 진행되..",
-      "link": "https://www.mk.co.kr/news/economy/12209545",
-      "publishedAt": "2026-11-15T21:04:54.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“사적연금 1500만원 넘으면 세금폭탄?” … ‘진실’을 알려드립니다",
-      "summary": "평생 성실하게 연금을 준비한 사람이 정작 연금을 받을 때 세금 때문에 낭패를 보는 경우가 있다. 연금을 모으고 불리는 공부만 했지, 연금을 수령하는 공부는 안 했기 때문이다. 58..",
-      "link": "https://www.mk.co.kr/news/economy/12209263",
-      "publishedAt": "2026-11-15T20:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“저점매수 지금 안하면 언제 해”…개미들, 마통 끌어다 주식 베팅했다",
-      "summary": "5대 은행 가계신용대출 이달 열흘 새 8531억원 ‘쑥’ 10월 한 달 증가분 넘어서은행 신용대출이 두 달 연속 증가했다. 특히 이달 들어 9영업일 만에 지난달 월간 증가액을 넘어..",
-      "link": "https://www.mk.co.kr/news/economy/12209530",
-      "publishedAt": "2026-11-15T13:03:46.000Z"
     }
   ]
 }
