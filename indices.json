@@ -1,22 +1,18 @@
 {
-  "updatedAt": "2026-11-23T11:33:00.075Z",
+  "updatedAt": "2026-11-24T05:04:17.847Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 4708.54,
-      "previous": 4869.96,
-      "dayChange": -161.42,
-      "dayChangePct": -3.31,
-      "monthChangePct": -15.17,
-      "lastUpdated": "2026-11-23T11:05:40.000Z",
+      "current": 5046.93,
+      "previous": 4708.54,
+      "dayChange": 338.39,
+      "dayChangePct": 7.19,
+      "monthChangePct": -7.73,
+      "lastUpdated": "2026-11-24T04:44:10.000Z",
       "candles": [
-        {
-          "date": "2026-10-23",
-          "close": 5550.3
-        },
         {
           "date": "2026-10-26",
           "close": 5469.47
@@ -100,6 +96,10 @@
         {
           "date": "2026-11-23",
           "close": 4708.54
+        },
+        {
+          "date": "2026-11-24",
+          "close": 5046.93
         }
       ]
     },
@@ -108,25 +108,13 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 22617.73,
-      "previous": 23879.2,
-      "dayChange": -1261.47,
-      "dayChangePct": -5.28,
-      "monthChangePct": -15.3,
-      "lastUpdated": "2026-11-20T22:15:59.000Z",
+      "current": 24089.56,
+      "previous": 22617.73,
+      "dayChange": 1471.83,
+      "dayChangePct": 6.51,
+      "monthChangePct": -7.95,
+      "lastUpdated": "2026-11-23T22:15:59.000Z",
       "candles": [
-        {
-          "date": "2026-10-21",
-          "close": 26702.86
-        },
-        {
-          "date": "2026-10-22",
-          "close": 26008.86
-        },
-        {
-          "date": "2026-10-23",
-          "close": 25955.34
-        },
         {
           "date": "2026-10-26",
           "close": 26169.38
@@ -206,6 +194,10 @@
         {
           "date": "2026-11-20",
           "close": 22617.73
+        },
+        {
+          "date": "2026-11-23",
+          "close": 24089.56
         }
       ]
     },
@@ -214,25 +206,13 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 6910.39,
-      "previous": 7175.83,
-      "dayChange": -265.44,
-      "dayChangePct": -3.7,
-      "monthChangePct": -10.92,
-      "lastUpdated": "2026-11-20T21:35:54.000Z",
+      "current": 7237.17,
+      "previous": 6910.39,
+      "dayChange": 326.78,
+      "dayChangePct": 4.73,
+      "monthChangePct": -5.73,
+      "lastUpdated": "2026-11-23T21:42:33.000Z",
       "candles": [
-        {
-          "date": "2026-10-21",
-          "close": 7757.17
-        },
-        {
-          "date": "2026-10-22",
-          "close": 7663.43
-        },
-        {
-          "date": "2026-10-23",
-          "close": 7623.68
-        },
         {
           "date": "2026-10-26",
           "close": 7676.77
@@ -312,6 +292,10 @@
         {
           "date": "2026-11-20",
           "close": 6910.39
+        },
+        {
+          "date": "2026-11-23",
+          "close": 7237.17
         }
       ]
     }
