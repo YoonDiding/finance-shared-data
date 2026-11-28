@@ -1,8 +1,216 @@
 {
-  "updatedAt": "2026-11-27T19:16:26.089Z",
+  "updatedAt": "2026-11-28T03:00:05.404Z",
   "historyDays": 7,
-  "count": 381,
+  "count": 386,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부고] 임문택(IBK연금보험 사장)씨 모친상",
+      "summary": "▲ 한정자씨(향년 100세) 별세, 임윤택·임문택(IBK연금보험 사장)·임수복·임연례·임양례·임미례씨 모친상, 정윤숙·배인숙·이영애씨 시모상, ...",
+      "link": "https://www.yna.co.kr/view/AKR20261128027400002",
+      "publishedAt": "2026-11-28T02:17:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "춘천시 골목상권 살리기 총력…야시장에 7만9천명 발길",
+      "summary": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 올해 전통시장과 골목상권 활성화를 위해 야시장 운영부터 소비 촉진, 규제 완화까지 다양한 민생경...",
+      "link": "https://www.yna.co.kr/view/AKR20261127141500062",
+      "publishedAt": "2026-11-28T02:10:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "이자 2000만원 넘으면 세금 폭탄? 오해인 경우 많다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611285951i",
+      "publishedAt": "2026-11-28T02:00:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "수능 끝나자 3만명 넘게 '우르르'…수험생 푹 빠진 외식 메뉴 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611275090i",
+      "publishedAt": "2026-11-28T02:00:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“스미마셍, 엔화가 없는데요”…일본 라멘집서 원화코인 쓸 날 올까",
+      "summary": "외국인 관광객은 달러 스테이블코인으로 결제하고 국내 가맹점은 원화로 대금을 받는다. BC카드가 지난 8월 미국 코인베이스, 국내 디지털자산 기업 웨이브릿지와 검증한 결제 방식이다...",
+      "link": "https://www.mk.co.kr/news/economy/12220665",
+      "publishedAt": "2026-11-28T01:31:16.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[마이더스] 연말정산, 환급 아닌 점검의 시간",
+      "summary": "해마다 12월이 되면 연말정산이 화제에 오르지만 법인을 운영하는 대표에게 이 시기는 환급액을 따지기보다 본인의 세 부담과 조직의 급여 체계를 점...",
+      "link": "https://www.yna.co.kr/view/AKR20261127066700980",
+      "publishedAt": "2026-11-28T01:30:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261128024500011",
+      "publishedAt": "2026-11-28T01:30:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] “동서울변환소 증설 성난 민심 달래자”…감일지구 가구당 年10만원 더 받는다",
+      "summary": "전력망 특별법상 특례 적용 전기료 지원 年10만원 늘어나 하남 감일지구 13개 단지 혜택 내달 7일 주민투표 결과 예정동해안 발전소에서 생산한 전기를 용인 반도체 클러스터로 끌어오..",
+      "link": "https://www.mk.co.kr/news/economy/12220664",
+      "publishedAt": "2026-11-28T01:24:39.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "전남광주시, 제2순환도로 재정지원금 290억원 환수 추진",
+      "summary": "(전남광주=연합뉴스) 박철홍 기자 = 광주 제2순환도로 1구간 민간사업자에게 과다 지급한 것으로 추정되는 재정지원금 290억원에 대해 전남광주통...",
+      "link": "https://www.yna.co.kr/view/AKR20261127148900054",
+      "publishedAt": "2026-11-28T01:04:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"코딩은 클로드, 일상 업무는 딥시크\"…美 기업들의 반전 [차이나 워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611263467i",
+      "publishedAt": "2026-11-28T00:34:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "주가 급락에 자사주 매입 속도 내는 SK하이닉스…하루 매수 주문 70만주로",
+      "summary": "SK하이닉스가 하루 자사주 매수 주문량을 약 35만주에서 70만주로 늘린다. 주가가 6월 장중 고점보다 60% 넘게 떨어지자 지난달 이사회에서 결정한 자사주 매입에 속도를 내기로 ..",
+      "link": "https://www.mk.co.kr/news/business/12220647",
+      "publishedAt": "2026-11-28T00:33:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "韓 반도체 '성과급 잔치'에 들썩일 때…中·日은 칼 갈았다 [강경주의 테크X]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112750696",
+      "publishedAt": "2026-11-28T00:30:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"주식 더 담고 현금 줄여라\"… 자산배분 키워드는 '한국·미국·인프라'[2027년 대전망]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611273951i",
+      "publishedAt": "2026-11-28T00:00:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "거래소 지분 '34% 예외'는 누가?...업비트·빗썸 셈법 복잡[디지털자산법 대해부③]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611274076i",
+      "publishedAt": "2026-11-28T00:00:09.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "농협 하나로마트서 제주산 노지감귤 소비촉진 할인행사",
+      "summary": "(제주=연합뉴스) 김호천 기자 = 제주농협조합공동사업법인은 농협경제지주, 롯데카드, 제주도와 함께 본격적인 출하 시기를 맞은 제주산 노지감귤 소...",
+      "link": "https://www.yna.co.kr/view/AKR20261127118000056",
+      "publishedAt": "2026-11-28T00:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'SF 영화 같네'…공장 대신 놀이공원으로 간 로봇들",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610103510i",
+      "publishedAt": "2026-11-28T00:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "촉매 없었던 반등, 기술주 할인 쇼핑?…진짜 승부는 다음 주 [김현석의 월스트리트나우]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611285802i",
+      "publishedAt": "2026-11-27T23:19:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“한은 금리 인상, 이제 시작일 뿐?”…다시 빨라진 글로벌 ‘긴축 시계’",
+      "summary": "세계 물가상승률 4.9%로 재상승 美 성장률 4.3%·근원 PCE 3.3% ECB, 지난달에도 금리인상 검토 日 경기 역성장에도 물가 잡기 무게 고유가에 AI 투자發 수요까지 가세..",
+      "link": "https://www.mk.co.kr/news/world/12220621",
+      "publishedAt": "2026-11-27T22:52:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼성전자 4만원까지 떨어질 수도\"…전문가 전망 나왔다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112857987",
+      "publishedAt": "2026-11-27T22:49:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "증안펀드 기대로 8% 뛴 코스닥…현 시점 투자전략 짜보니",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611275027i",
+      "publishedAt": "2026-11-27T22:20:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "AI 투자 우려 속 기술주 반등…나스닥 2.3% 상승 [뉴욕증시]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026112857597",
+      "publishedAt": "2026-11-27T22:11:30.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "V자 반등 장담 못 하는 하락장…커버드콜 ETF 고를 때 따져야 할 3가지",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202611274748i",
+      "publishedAt": "2026-11-27T22:00:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "한국서 5% 뛴 SK하이닉스, 미국선 7%대 급등…나스닥도 2.31%↑",
+      "summary": "27일(현지시간) 뉴욕증시에서 마이크론과 SK하이닉스 미국주식예탁증서(ADR)가 나란히 7% 넘게 뛰었다. 추수감사절 휴장 이후 첫 거래일에 메모리 반도체주로 매수세가 몰리면서 필..",
+      "link": "https://www.mk.co.kr/news/stock/12220603",
+      "publishedAt": "2026-11-27T21:58:26.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "주식시장 새내기인데 첫날 몸값이 6.6조원…개미가 만나는 美 기업 달라졌다",
+      "summary": "기업 자금조달 방식 변화에 미국 새내기주 몸값 확대돼지난해 미국 증시에 새로 상장한 기업 90곳의 첫날 평균 시가총액은 49억800만달러(약 6조6000억원)로 집계됐다. 물가 상..",
+      "link": "https://www.mk.co.kr/news/stock/12220593",
+      "publishedAt": "2026-11-27T21:28:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“오래 기다렸죠?” 돌아온 외국인…삼전닉스 내다팔더니 ‘이것’ 샀다",
+      "summary": "로봇·바이오 등 전방위 랠리 레인보우로보틱스 13% 급등 외국인, 대거 사자로 돌아서 낙폭 과다株 중심 저가 매수 30일 증안펀드 윤곽 나올듯국내 증시가 정부의 증권시장안정펀드(증..",
+      "link": "https://www.mk.co.kr/news/stock/12220584",
+      "publishedAt": "2026-11-27T21:19:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "그들이 지갑을 열면 세계 경제가 ‘들썩’ … 블프에 담긴 비밀",
+      "summary": "글로벌 경제 쥐락펴락 소비대국 미국의 이면미국 최대 쇼핑 행사인 블랙프라이데이가 돌아왔습니다. 블랙프라이데이는 매년 11월 넷째 목요일인 추수감사절(Thanksgiving Day)..",
+      "link": "https://www.mk.co.kr/news/economy/12220288",
+      "publishedAt": "2026-11-27T20:00:00.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -2882,174 +3090,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026112113316",
       "publishedAt": "2026-11-21T03:08:50.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "역대 최대 IPO 성공한 앤트로픽…오픈AI도 증시 입성 탄력 받나",
-      "summary": "공모 규모 813억달러 앤트로픽 3분기 매출 168억달러, 전분기比 45% 증가 오픈AI도 매출 급증…적자 줄이고 수익성 입증해야인공지능(AI) 챗봇 클로드 개발사 앤트로픽이 역대..",
-      "link": "https://www.mk.co.kr/news/stock/12215211",
-      "publishedAt": "2026-11-21T02:41:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[부고] 이창봉(삼성증권 이사)씨 장모상",
-      "summary": "▲ 김미자 씨 별세, 이주현·이재경 씨 모친상, 이창봉(삼성증권 이사)·최지욱 씨 장모상 = 21일 오전, 이대서울병원장례식장 6호실, 발인 2...",
-      "link": "https://www.yna.co.kr/view/AKR20261121029200008",
-      "publishedAt": "2026-11-21T02:13:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "나스닥 5% 폭락…시험대 오른 국내 증시, 반등 열쇠는 [다음주 주요 변수 미리보기]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611200923i",
-      "publishedAt": "2026-11-21T02:00:08.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "서행하는 앞차에 하이빔 날렸는데…“알고 보니 똑똑한 운전자였습니다”",
-      "summary": "자동차보험 할인 특약 과속·급가감속 삼가면 네이버·티맵 등 점수로 최대 20% 후반대 할인A씨는 최근 앞에 차량이 한 대도 없는 도로에서도 시속 60km 이하로 주행하고 있다. 내..",
-      "link": "https://www.mk.co.kr/news/economy/12215197",
-      "publishedAt": "2026-11-21T01:48:43.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "summary": "■ [르포] 대학 논술시험장도 AI발 혼란…앞치마 지급도",
-      "link": "https://www.yna.co.kr/view/AKR20261121024500011",
-      "publishedAt": "2026-11-21T01:30:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "노동장관, 'AI 커닝' 사태 속 첫 국가자격시험 현장 점검",
-      "summary": "(서울=연합뉴스) 옥성구 기자 = 김영훈 고용노동부 장관이 21일 &apos;인공지능(AI) 부정행위&apos; 사태 뒤로 처음 치러진 국가자격시험 현장을 찾아 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261121023800530",
-      "publishedAt": "2026-11-21T01:12:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"설악산 호텔 손님 절반이 외국인\"…한국 여행 지도가 바뀐다 [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611209535i",
-      "publishedAt": "2026-11-21T01:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[바이오사이언스] 바이오의약품 임상 승인 203건…분기마다 증가",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 올해 국내 바이오의약품 임상시험 승인이 분기마다 늘어 3분기까지 모두 200건을 넘은 것으로 집계됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20261120156900017",
-      "publishedAt": "2026-11-21T01:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "춘천바이오산업진흥원, '칩 위의 실험실' 산업화 생산기반 확충",
-      "summary": "(춘천=연합뉴스) 이상학 기자 = 실험실의 복잡한 분석 과정을 작은 칩 안에 구현하는 &apos;랩온어칩&apos; 기술이 강원 춘천에서 산업화 기반을 넓히고 있...",
-      "link": "https://www.yna.co.kr/view/AKR20261120113700062",
-      "publishedAt": "2026-11-21T00:35:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "이재용의 원픽…\"될 사람이 됐다\" 엔비디아 뚫은 30년 삼성맨 [강경주의 테크X]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026112004536",
-      "publishedAt": "2026-11-21T00:30:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미",
-      "summary": "한 달 순매수 톱10 금액 절반이 2·3배 ETF 엔비디아, 최근 일주일 5억달러 순매수 1위 “낙폰 큰 투자 땐 밸류에이션 살펴야” 조언도국내 투자자들이 최근 국내에서 레버리지로..",
-      "link": "https://www.mk.co.kr/news/stock/12215178",
-      "publishedAt": "2026-11-21T00:24:56.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "마오타이 안 팔리자 위스키에 꽂힌 中…칭다오맥주까지 가세한 '위스키 전쟁'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610080252i",
-      "publishedAt": "2026-11-21T00:00:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "앤트로픽 상장 열풍, 코인 시장으로…공모주도 토큰으로 산다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611209908i",
-      "publishedAt": "2026-11-21T00:00:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "웃돈 주고 샀는데 가짜?…애플·BMW 의심에 기업들 '초비상' [김리안의 에네르기파WAR]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611209672i",
-      "publishedAt": "2026-11-21T00:00:10.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[민선9기 서울] 서준오 노원구청장 \"베드타운 벗고 기업집중 경제도시로\"",
-      "summary": "(서울=연합뉴스) 정준영 김준태 기자 = &quot;노원을 베드타운에서 기업과 일자리가 모이는 경제도시로 바꾼 구청장으로 기억되고 싶습니다.&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20261120135700004",
-      "publishedAt": "2026-11-21T00:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"반도체 호황에도 파급 미미…10억원당 취업유발 2.4명\"",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 인공지능(AI) 산업 성장에 국내 반도체 산업이 호황을 맞고 있지만, 국내 경제 전반으로 확산되는 효과는 지금...",
-      "link": "https://www.yna.co.kr/view/AKR20261120167400002",
-      "publishedAt": "2026-11-21T00:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“여보, 퇴직금 5000만원 날릴 뻔했어”…임피 앞둔 직장인 꼭 확인할 ‘이것’",
-      "summary": "퇴직연금, 임금피크제·이직 변수 따져야퇴직연금은 직장인의 노후를 떠받치는 핵심 자산이다. 하지만 어떤 제도를 선택하느냐에 따라 은퇴 후 손에 쥐는 퇴직급여는 크게 달라질 수 있다...",
-      "link": "https://www.mk.co.kr/news/economy/12215160",
-      "publishedAt": "2026-11-20T23:03:41.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"돈 싸들고 줄 서더니\"…4개월 만에 75% 증발 '줄도산 공포' [차이나 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202611157144i",
-      "publishedAt": "2026-11-20T23:01:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"믿었던 AI마저\"…기술주 투매에 나스닥 5% 급락 [뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026112110837",
-      "publishedAt": "2026-11-20T22:27:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락",
-      "summary": "20일(현지시간) 미국 뉴욕증시 주요 지수가 일제히 급락했다. 엔비디아의 호실적과 앤트로픽의 상장 흥행에도 인공지능(AI) 관련 기술주를 중심으로 매도세가 이어지면서 투자심리가 위..",
-      "link": "https://www.mk.co.kr/news/stock/12215112",
-      "publishedAt": "2026-11-20T21:24:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
-      "summary": "10월 韓국채 순투자로 전환 유럽계 주도 안전자산 쏠림 AI회의론에 주식은 매도세 올 256조 팔아치워 역대급외국인 투자자들이 국내 주식시장에서 대대적인 순매도세를 나타내고 있다...",
-      "link": "https://www.mk.co.kr/news/stock/12215101",
-      "publishedAt": "2026-11-20T21:09:59.000Z"
     }
   ]
 }
